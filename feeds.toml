@@ -1,6 +1,6 @@
 [vlive]
 title = "BLACKPINK ─ Star Board"
-url = "https://www.vlive.tv/channel/F001E5/board/3961"
+url = "https://www.vlive.tv/channel/F001E5/board/3961?lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[class^='post_area']"
@@ -11,7 +11,7 @@ onFail = "stale"
 
 [vlive_notice]
 title = "BLACKPINK ─ Notice"
-url = "https://www.vlive.tv/channel/F001E5/board/491"
+url = "https://www.vlive.tv/channel/F001E5/board/491?lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[class^='post_area']"
