@@ -1,0 +1,21 @@
+[vlive]
+title = "BLACKPINK ─ Star Board"
+url = "https://www.vlive.tv/channel/F001E5/board/3961"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "span[class^='upload_time']"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[vlive_notice]
+title = "BLACKPINK ─ Notice"
+url = "https://www.vlive.tv/channel/F001E5/board/491"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "span[class^='upload_time']"
+waitUntil = "networkidle"
+onFail = "stale"
