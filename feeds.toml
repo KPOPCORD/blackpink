@@ -44,11 +44,10 @@ onFail = "stale"
 
 [tiktok]
 title = "BLACKPINK ─ TikTok"
-url = "https://www.tiktok.com/@bp_tiktok?lang=ko"
+url = "https://www.tiktok.com/@bp_tiktok?"
 entrySelector = "div[class='jsx-2261688415 video-feed-item three-column-item']"
 titleSelector = "a[class='jsx-3808264675 video-feed-item-wrapper']"
 linkSelector = "div a[class='jsx-3808264675 video-feed-item-wrapper']"
 imageSelector = "div[class='jsx-828470630 image-card']"
-contentSelector = "div video[class='jsx-3900254205 video-player']"
 waitUntil = "networkidle"
 onFail = "stale"
