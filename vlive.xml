@@ -4,9 +4,17 @@
         <title>BLACKPINK ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Aug 2021 23:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 01:29:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP HASHTAG EVENT]]></title>
+            <link>https://www.vlive.tv/post/1-24886328</link>
+            <guid>https://www.vlive.tv/post/1-24886328</guid>
+            <pubDate>Sat, 21 Aug 2021 01:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[29 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210821_268/1629472284749fmm3h_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 예약 2차 오픈 안내]]></title>
             <link>https://www.vlive.tv/post/0-24818242</link>
@@ -27,7 +35,6 @@
             <guid>https://www.vlive.tv/post/0-24693708</guid>
             <pubDate>Fri, 20 Aug 2021 08:00:28 GMT</pubDate>
             <content:encoded><![CDATA[Aug 11]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210811_107/1628656739079jInGf_JPEG/b1872a30-fa5d-11eb-a8ac-505dac8c35ff_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] 2021 SUMMER DIARY PREVIEW]]></title>
@@ -140,13 +147,6 @@
             <guid>https://www.vlive.tv/post/1-21907481</guid>
             <pubDate>Fri, 20 Aug 2021 08:00:28 GMT</pubDate>
             <content:encoded><![CDATA[Mar 19]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ROSÉ ‘On The Ground’ 속 -R-짜배기 선물 | ᐕ)੭*⁾⁾]]></title>
-            <link>https://www.vlive.tv/post/0-21872525</link>
-            <guid>https://www.vlive.tv/post/0-21872525</guid>
-            <pubDate>Fri, 20 Aug 2021 08:00:28 GMT</pubDate>
-            <content:encoded><![CDATA[Mar 17]]></content:encoded>
         </item>
     </channel>
 </rss>
