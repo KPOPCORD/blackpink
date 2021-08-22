@@ -41,3 +41,12 @@ imageSelector = "span[class^='covered_image']"
 contentSelector = "span[class^='upload_time']"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[naverpost_ygfaily_blackpink]
+title = "YG FAMILY ─ BLACKPINK"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=408754&memberNo=37292560"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
