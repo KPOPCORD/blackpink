@@ -4,15 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Aug 2021 03:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 04:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 예약 추가 오픈 (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-24980790</link>
+            <guid>https://www.vlive.tv/post/0-24980790</guid>
+            <pubDate>Thu, 26 Aug 2021 04:46:28 GMT</pubDate>
+            <content:encoded><![CDATA[45 minutes ago]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA TEASER POSTER (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-24966380</link>
             <guid>https://www.vlive.tv/post/0-24966380</guid>
             <pubDate>Wed, 25 Aug 2021 15:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[12 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[13 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210825_194/1629879315172fORDn_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +35,6 @@
             <guid>https://www.vlive.tv/post/0-24891192</guid>
             <pubDate>Sun, 22 Aug 2021 15:39:29 GMT</pubDate>
             <content:encoded><![CDATA[Aug 22]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210821_192/1629529604267aCybP_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP HASHTAG EVENT (BLACKPINK ─ Star Board)]]></title>
@@ -141,13 +147,6 @@
             <guid>https://www.vlive.tv/post/0-22162162</guid>
             <pubDate>Fri, 20 Aug 2021 08:00:28 GMT</pubDate>
             <content:encoded><![CDATA[Apr 3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ROSÉ - 'Gone' TEASER POSTER (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-22119680</link>
-            <guid>https://www.vlive.tv/post/1-22119680</guid>
-            <pubDate>Fri, 20 Aug 2021 08:00:28 GMT</pubDate>
-            <content:encoded><![CDATA[Mar 31]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 📢ONLINE PRE-RESERVATION GUIDE (BLACKPINK ─ Notice)]]></title>
