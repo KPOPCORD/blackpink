@@ -4,15 +4,23 @@
         <title>BLACKPINK ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Aug 2021 14:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 15:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #1]]></title>
+            <link>https://www.vlive.tv/post/1-25004384</link>
+            <guid>https://www.vlive.tv/post/1-25004384</guid>
+            <pubDate>Fri, 27 Aug 2021 15:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[39 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210827_233/1630042180218R7EPs_JPEG/1630042086116.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP VIEWING POINTS]]></title>
             <link>https://www.vlive.tv/post/1-24989835</link>
             <guid>https://www.vlive.tv/post/1-24989835</guid>
             <pubDate>Fri, 27 Aug 2021 08:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[5 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[7 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210826_22/1629973043576wb7NI_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,6 @@
             <guid>https://www.vlive.tv/post/0-24966380</guid>
             <pubDate>Wed, 25 Aug 2021 15:35:10 GMT</pubDate>
             <content:encoded><![CDATA[Aug 25]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210825_194/1629879315172fORDn_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 추가 예약 오픈 안내]]></title>
@@ -141,13 +148,6 @@
             <guid>https://www.vlive.tv/post/1-22228507</guid>
             <pubDate>Fri, 20 Aug 2021 08:00:28 GMT</pubDate>
             <content:encoded><![CDATA[Apr 7]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ROSÉ - ‘Gone’ M/V]]></title>
-            <link>https://www.vlive.tv/post/0-22171134</link>
-            <guid>https://www.vlive.tv/post/0-22171134</guid>
-            <pubDate>Fri, 20 Aug 2021 08:00:28 GMT</pubDate>
-            <content:encoded><![CDATA[Apr 4]]></content:encoded>
         </item>
     </channel>
 </rss>
