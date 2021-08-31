@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 14:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 15:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #2 (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-25069128</link>
+            <guid>https://www.vlive.tv/post/0-25069128</guid>
+            <pubDate>Tue, 31 Aug 2021 15:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[38 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210831_236/1630415216455CLE8W_JPEG/upload_4668481129572993031e34c79-62f5-40a7-bc23-65373ebff8cf.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LISA - ‘LALISA’ TITLE POSTER (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-25037940</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-24989835</guid>
             <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
             <content:encoded><![CDATA[Aug 27]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210826_22/1629973043576wb7NI_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 예약 추가 오픈 (BLACKPINK ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-22331587</guid>
             <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
             <content:encoded><![CDATA[Apr 14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ROSÉ ‘Gone’ MV 배경화면 준비했다GONE🌹 (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-22262598</link>
-            <guid>https://www.vlive.tv/post/1-22262598</guid>
-            <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[Apr 9]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 📢ONLINE PRE-RESERVATION GUIDE (BLACKPINK ─ Notice)]]></title>
