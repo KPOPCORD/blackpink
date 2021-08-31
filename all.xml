@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 08:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 09:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -544,13 +544,6 @@
             <content:encoded><![CDATA[2020.10.30.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[:) (BLACKPINK ─ Contents)]]></title>
-            <link>https://www.vlive.tv/post/1-19507230</link>
-            <guid>https://www.vlive.tv/post/1-19507230</guid>
-            <pubDate>Fri, 20 Aug 2021 08:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[2020.10.25.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[REPLAY] 안자ㅎㅎ (BLACKPINK ─ Contents)]]></title>
             <link>https://www.vlive.tv/post/1-18420938</link>
             <guid>https://www.vlive.tv/post/1-18420938</guid>
@@ -577,6 +570,13 @@
             <guid>https://www.vlive.tv/post/0-18271876</guid>
             <pubDate>Fri, 20 Aug 2021 08:15:20 GMT</pubDate>
             <content:encoded><![CDATA[2020.7.14.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BLACKPINK] 1일1블핑 하면 독수리랑 친구 먹기 핑파서블👓🦅 (JISOO&LISA talking about glasses) (BLACKPINK ─ Contents)]]></title>
+            <link>https://www.vlive.tv/post/1-18282168</link>
+            <guid>https://www.vlive.tv/post/1-18282168</guid>
+            <pubDate>Tue, 31 Aug 2021 09:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[2020.5.26.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[블랙핑크] 
