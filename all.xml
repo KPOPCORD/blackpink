@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Sep 2021 14:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 15:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA TRACKLIST POSTER (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-25202379</link>
+            <guid>https://www.vlive.tv/post/1-25202379</guid>
+            <pubDate>Sun, 05 Sep 2021 15:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[6 hours ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210905_29/1630832217321tHaYg_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LISA - ‘LALISA’ LYRIC POSTER (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-25185744</link>
             <guid>https://www.vlive.tv/post/1-25185744</guid>
             <pubDate>Sat, 04 Sep 2021 15:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[23 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[Sep 4]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210904_216/1630747778823Nu6Dj_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25150879</guid>
             <pubDate>Thu, 02 Sep 2021 15:39:27 GMT</pubDate>
             <content:encoded><![CDATA[Sep 2]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210902_215/1630579721422cQNIT_JPEG/1630579655328.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA - ‘LALISA’ COUNTDOWN LIVE EVENT (BLACKPINK ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24377786</guid>
             <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
             <content:encoded><![CDATA[Jul 29]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK - 5th ANNIVERSARY [4+1] THE MOVIE SCREENX TRAILER (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-24368634</link>
-            <guid>https://www.vlive.tv/post/1-24368634</guid>
-            <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[Jul 28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 📢ONLINE PRE-RESERVATION GUIDE (BLACKPINK ─ Notice)]]></title>
