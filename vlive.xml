@@ -4,15 +4,23 @@
         <title>BLACKPINK ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Sep 2021 14:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 15:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - #OUTNOW Unlimited LISA LIVE POSTER]]></title>
+            <link>https://www.vlive.tv/post/0-25209615</link>
+            <guid>https://www.vlive.tv/post/0-25209615</guid>
+            <pubDate>Mon, 06 Sep 2021 15:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[14 hours ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210906_149/1630890303679mn02W_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA TRACKLIST POSTER]]></title>
             <link>https://www.vlive.tv/post/1-25202379</link>
             <guid>https://www.vlive.tv/post/1-25202379</guid>
             <pubDate>Sun, 05 Sep 2021 15:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[23 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[Sep 5]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210905_29/1630832217321tHaYg_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25150921</guid>
             <pubDate>Fri, 03 Sep 2021 08:38:14 GMT</pubDate>
             <content:encoded><![CDATA[Sep 3]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210902_93/16305799180476TEW4_JPEG/1630579847151.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #3]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-24488019</guid>
             <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
             <content:encoded><![CDATA[Aug 3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK THE MOVIE - TICKET SALES OPENING IN SOUTH KOREA]]></title>
-            <link>https://www.vlive.tv/post/1-24377786</link>
-            <guid>https://www.vlive.tv/post/1-24377786</guid>
-            <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[Jul 29]]></content:encoded>
         </item>
     </channel>
 </rss>
