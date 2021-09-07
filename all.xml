@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 02:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 03:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLACKPINK CARD by BC CARD (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-25215503</link>
+            <guid>https://www.vlive.tv/post/0-25215503</guid>
+            <pubDate>Tue, 07 Sep 2021 03:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[1 hour ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210906_274/1630918270602DLr8K_JPEG/upload_74997961205351572605f3be0-83ab-4112-8fb4-94f0c1a70f65.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LISA - #OUTNOW Unlimited LISA LIVE POSTER (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-25209615</link>
             <guid>https://www.vlive.tv/post/0-25209615</guid>
             <pubDate>Mon, 06 Sep 2021 15:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[11 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[12 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210906_149/1630890303679mn02W_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25185744</guid>
             <pubDate>Sat, 04 Sep 2021 15:38:39 GMT</pubDate>
             <content:encoded><![CDATA[Sep 4]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210904_216/1630747778823Nu6Dj_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP WITH BLINK (BLACKPINK ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-24693708</guid>
             <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
             <content:encoded><![CDATA[Aug 11]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] 2021 SUMMER DIARY PREVIEW (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-24488019</link>
-            <guid>https://www.vlive.tv/post/0-24488019</guid>
-            <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[Aug 3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 📢ONLINE PRE-RESERVATION GUIDE (BLACKPINK ─ Notice)]]></title>
