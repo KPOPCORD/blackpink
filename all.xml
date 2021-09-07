@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 14:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 15:37:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - ‘LALISA’ M/V TEASER (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-25241384</link>
+            <guid>https://www.vlive.tv/post/1-25241384</guid>
+            <pubDate>Tue, 07 Sep 2021 15:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[37 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210907_206/1631017433786izcdq_JPEG/1631017230210.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BLACKPINK CARD by BC CARD (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-25215503</link>
             <guid>https://www.vlive.tv/post/0-25215503</guid>
             <pubDate>Tue, 07 Sep 2021 03:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[12 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[13 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210906_274/1630918270602DLr8K_JPEG/upload_74997961205351572605f3be0-83ab-4112-8fb4-94f0c1a70f65.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://www.vlive.tv/post/0-25209615</link>
             <guid>https://www.vlive.tv/post/0-25209615</guid>
             <pubDate>Mon, 06 Sep 2021 15:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[23 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[Sep 6]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210906_149/1630890303679mn02W_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25202379</guid>
             <pubDate>Sun, 05 Sep 2021 15:38:21 GMT</pubDate>
             <content:encoded><![CDATA[Sep 5]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210905_29/1630832217321tHaYg_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA - ‘LALISA’ LYRIC POSTER (BLACKPINK ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24721495</guid>
             <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
             <content:encoded><![CDATA[Aug 12]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK CARD BALANCE GAME by BC CARD (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-24693708</link>
-            <guid>https://www.vlive.tv/post/0-24693708</guid>
-            <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[Aug 11]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 📢ONLINE PRE-RESERVATION GUIDE (BLACKPINK ─ Notice)]]></title>
