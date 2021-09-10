@@ -4,7 +4,7 @@
         <title>BLACKPINK ─ Notice</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 01:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 02:45:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,13 +58,6 @@
             <guid>https://www.vlive.tv/post/1-23520481</guid>
             <pubDate>Mon, 06 Sep 2021 11:32:27 GMT</pubDate>
             <content:encoded><![CDATA[Jun 14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내] BLACKPINK [BLACKPINK 2021 [THE SHOW] DVD/KiT VIDEO] 발매 안내]]></title>
-            <link>https://www.vlive.tv/post/0-23229016</link>
-            <guid>https://www.vlive.tv/post/0-23229016</guid>
-            <pubDate>Mon, 06 Sep 2021 11:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 1]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BLACKPINK - ‘THE ALBUM’ COMEBACK LIVE]]></title>
@@ -148,6 +141,13 @@
             <link>https://www.vlive.tv/post/1-18179900</link>
             <guid>https://www.vlive.tv/post/1-18179900</guid>
             <pubDate>Mon, 06 Sep 2021 11:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[Sep 23, 2020]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BLACKPINK - ‘THE ALBUM’ JENNIE TEASER POSTER #1]]></title>
+            <link>https://www.vlive.tv/post/0-18161205</link>
+            <guid>https://www.vlive.tv/post/0-18161205</guid>
+            <pubDate>Fri, 10 Sep 2021 02:44:48 GMT</pubDate>
             <content:encoded><![CDATA[Sep 23, 2020]]></content:encoded>
         </item>
     </channel>
