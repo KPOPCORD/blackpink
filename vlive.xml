@@ -4,23 +4,31 @@
         <title>BLACKPINK ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 04:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 05:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[LISA ‘LALISA’ COUNTDOWN LIVE]]></title>
-            <link>https://www.vlive.tv/post/1-25149079</link>
-            <guid>https://www.vlive.tv/post/1-25149079</guid>
-            <pubDate>Fri, 10 Sep 2021 03:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[41 minutes ago]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210902_140/1630573302779ISsnA_JPEG/upload_46842909833252701a7478f1e-8fc2-47e4-9372-a4ab076e0247.jpg?type=f359x202" length="0" type="image/jpg"/>
+            <title><![CDATA[LISA – #OUTNOW Unlimited LISA TEASER]]></title>
+            <link>https://www.vlive.tv/post/0-25277507</link>
+            <guid>https://www.vlive.tv/post/0-25277507</guid>
+            <pubDate>Fri, 10 Sep 2021 05:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[1 hour ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210910_118/1631247141680JXvN1_JPEG/image.JPEG?type=f144x144" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[LISA - 'LALISA' M/V]]></title>
+            <link>https://www.vlive.tv/post/1-25282029</link>
+            <guid>https://www.vlive.tv/post/1-25282029</guid>
+            <pubDate>Fri, 10 Sep 2021 05:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[1 hour ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210910_240/1631244957798bGbJj_JPEG/upload_75324688438119147e4c35ff3-e587-4ca8-8c7b-5ff07599ed82.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA - ‘LALISA’ COUNTDOWN LIVE]]></title>
             <link>https://www.vlive.tv/post/1-25267964</link>
             <guid>https://www.vlive.tv/post/1-25267964</guid>
             <pubDate>Fri, 10 Sep 2021 01:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[3 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[5 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210910_96/1631240124369x3kdw_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,15 +36,14 @@
             <link>https://www.vlive.tv/post/1-25266024</link>
             <guid>https://www.vlive.tv/post/1-25266024</guid>
             <pubDate>Fri, 10 Sep 2021 01:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[3 hours ago]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210909_31/1631158649703fxDY5_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[5 hours ago]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA D-DAY POSTER]]></title>
             <link>https://www.vlive.tv/post/0-25260918</link>
             <guid>https://www.vlive.tv/post/0-25260918</guid>
             <pubDate>Thu, 09 Sep 2021 15:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[12 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[14 hours ago]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LISA - ‘LALISA’ M/V TEASER]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA TEASER POSTER]]></title>
             <link>https://www.vlive.tv/post/0-24966380</link>
             <guid>https://www.vlive.tv/post/0-24966380</guid>
-            <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[Aug 25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 추가 예약 오픈 안내]]></title>
-            <link>https://www.vlive.tv/post/1-24954072</link>
-            <guid>https://www.vlive.tv/post/1-24954072</guid>
             <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
             <content:encoded><![CDATA[Aug 25]]></content:encoded>
         </item>
