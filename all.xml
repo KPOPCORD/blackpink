@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 13:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 14:32:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.vlive.tv/post/0-25285215</link>
             <guid>https://www.vlive.tv/post/0-25285215</guid>
             <pubDate>Sat, 11 Sep 2021 01:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[13 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[14 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210910_2/1631279179510EGrbt_JPEG/1631278803105.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[Sep 23, 2020]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[자기 전에 다시 '그 앱' 다운로드한 기념으로 키는 츄디의 라디오 (BLACKPINK ─ To. BLINK)]]></title>
+            <link>https://www.vlive.tv/post/1-25310205</link>
+            <guid>https://www.vlive.tv/post/1-25310205</guid>
+            <pubDate>Sat, 11 Sep 2021 14:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/262599/thumb?type=f640_362" length="0" type="image//live/262599/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[[REPLAY] 오랜만에 퇴근 브이앱😘 (BLACKPINK ─ To. BLINK)]]></title>
             <link>https://www.vlive.tv/post/0-24023349</link>
             <guid>https://www.vlive.tv/post/0-24023349</guid>
@@ -427,13 +435,6 @@
             <guid>https://www.vlive.tv/post/0-21958699</guid>
             <pubDate>Fri, 20 Aug 2021 08:07:51 GMT</pubDate>
             <content:encoded><![CDATA[4.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[울 블링크🤍 (BLACKPINK ─ To. BLINK)]]></title>
-            <link>https://www.vlive.tv/post/1-22200425</link>
-            <guid>https://www.vlive.tv/post/1-22200425</guid>
-            <pubDate>Fri, 20 Aug 2021 08:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[4.5.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ROSÉ ‘Gone’ MV 배경화면 (Exclusive ver.) (BLACKPINK ─ Contents)]]></title>
