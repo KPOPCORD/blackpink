@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 01:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 02:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.vlive.tv/post/0-25285215</link>
             <guid>https://www.vlive.tv/post/0-25285215</guid>
             <pubDate>Sat, 11 Sep 2021 01:30:44 GMT</pubDate>
-            <content:encoded><![CDATA[1 hour ago]]></content:encoded>
+            <content:encoded><![CDATA[2 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210910_2/1631279179510EGrbt_JPEG/1631278803105.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://www.vlive.tv/post/1-25282029</link>
             <guid>https://www.vlive.tv/post/1-25282029</guid>
             <pubDate>Fri, 10 Sep 2021 05:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[21 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[22 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210910_240/1631244957798bGbJj_JPEG/upload_75324688438119147e4c35ff3-e587-4ca8-8c7b-5ff07599ed82.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -155,7 +155,7 @@
             <link>https://www.vlive.tv/post/0-25277360</link>
             <guid>https://www.vlive.tv/post/0-25277360</guid>
             <pubDate>Fri, 10 Sep 2021 04:48:13 GMT</pubDate>
-            <content:encoded><![CDATA[21 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[22 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210910_16/1631246526489d20Fc_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
