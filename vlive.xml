@@ -4,9 +4,17 @@
         <title>BLACKPINK ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Sep 2021 15:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 16:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - ‘LALISA’ SPECIAL STAGE]]></title>
+            <link>https://www.vlive.tv/post/1-25356730</link>
+            <guid>https://www.vlive.tv/post/1-25356730</guid>
+            <pubDate>Sun, 12 Sep 2021 16:56:05 GMT</pubDate>
+            <content:encoded><![CDATA[1 hour ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210912_154/1631449299499QlAuF_JPEG/1631449068931.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LISA - 'LALISA' M/V MAKING FILM]]></title>
             <link>https://www.vlive.tv/post/0-25285215</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25282029</guid>
             <pubDate>Fri, 10 Sep 2021 05:32:00 GMT</pubDate>
             <content:encoded><![CDATA[Sep 10]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210910_240/1631244957798bGbJj_JPEG/upload_75324688438119147e4c35ff3-e587-4ca8-8c7b-5ff07599ed82.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA - ‘LALISA’ COUNTDOWN LIVE]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24989835</guid>
             <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
             <content:encoded><![CDATA[Aug 27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 예약 추가 오픈]]></title>
-            <link>https://www.vlive.tv/post/0-24980790</link>
-            <guid>https://www.vlive.tv/post/0-24980790</guid>
-            <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[Aug 26]]></content:encoded>
         </item>
     </channel>
 </rss>
