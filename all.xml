@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 10:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 11:32:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - #OUTNOW Unlimited LISA LIVE (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-25377660</link>
+            <guid>https://www.vlive.tv/post/1-25377660</guid>
+            <pubDate>Tue, 14 Sep 2021 11:32:11 GMT</pubDate>
+            <content:encoded><![CDATA[32 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210913_203/1631513744546ip8y2_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LISA - #OUTNOW Unlimited LISA REMINDER (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-25372952</link>
             <guid>https://www.vlive.tv/post/0-25372952</guid>
             <pubDate>Tue, 14 Sep 2021 01:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[10 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[11 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210913_201/1631513446556SiBHw_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25285215</guid>
             <pubDate>Sat, 11 Sep 2021 01:30:44 GMT</pubDate>
             <content:encoded><![CDATA[Sep 11]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210910_2/1631279179510EGrbt_JPEG/1631278803105.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA – #OUTNOW Unlimited LISA TEASER (BLACKPINK ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25037940</guid>
             <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
             <content:encoded><![CDATA[Aug 29]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #1 (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-25004384</link>
-            <guid>https://www.vlive.tv/post/1-25004384</guid>
-            <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[Aug 27]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LISA - #OUTNOW Unlimited LISA LIVE (BLACKPINK ─ Notice)]]></title>
