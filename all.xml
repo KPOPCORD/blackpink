@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 01:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 02:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - 'LALISA' JACKET MAKING FILM (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-25431082</link>
+            <guid>https://www.vlive.tv/post/1-25431082</guid>
+            <pubDate>Thu, 16 Sep 2021 02:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[2 hours ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210915_274/1631685849928eWuEm_JPEG/1631685784938.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LISA - #OUTNOW Unlimited LISA LIVE (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-25377660</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25356730</guid>
             <pubDate>Sun, 12 Sep 2021 16:56:05 GMT</pubDate>
             <content:encoded><![CDATA[Sep 12]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210912_154/1631449299499QlAuF_JPEG/1631449068931.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA - 'LALISA' M/V MAKING FILM (BLACKPINK ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-25069128</guid>
             <pubDate>Tue, 31 Aug 2021 15:39:00 GMT</pubDate>
             <content:encoded><![CDATA[Aug 31]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LISA - ‘LALISA’ TITLE POSTER (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-25037940</link>
-            <guid>https://www.vlive.tv/post/1-25037940</guid>
-            <pubDate>Mon, 30 Aug 2021 20:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[Aug 29]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LISA - #OUTNOW Unlimited LISA LIVE (BLACKPINK ─ Notice)]]></title>
