@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 14:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 15:39:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - ‘LALISA’ DANCE PRACTICE VIDEO (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-25448684</link>
+            <guid>https://www.vlive.tv/post/1-25448684</guid>
+            <pubDate>Thu, 16 Sep 2021 15:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[38 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210916_30/1631770294600yVDz9_JPEG/1631769441263.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LISA - 'LALISA' JACKET MAKING FILM (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-25431082</link>
             <guid>https://www.vlive.tv/post/1-25431082</guid>
             <pubDate>Thu, 16 Sep 2021 02:45:17 GMT</pubDate>
-            <content:encoded><![CDATA[14 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[15 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210915_274/1631685849928eWuEm_JPEG/1631685784938.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25372952</guid>
             <pubDate>Tue, 14 Sep 2021 01:34:48 GMT</pubDate>
             <content:encoded><![CDATA[Sep 14]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210913_201/1631513446556SiBHw_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA - ‘LALISA’ SPECIAL STAGE (BLACKPINK ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-25117754</guid>
             <pubDate>Wed, 01 Sep 2021 15:38:45 GMT</pubDate>
             <content:encoded><![CDATA[Sep 1]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #2 (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-25069128</link>
-            <guid>https://www.vlive.tv/post/0-25069128</guid>
-            <pubDate>Tue, 31 Aug 2021 15:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[Aug 31]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LISA - #OUTNOW Unlimited LISA LIVE (BLACKPINK ─ Notice)]]></title>
