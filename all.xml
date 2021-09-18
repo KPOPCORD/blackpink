@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 23:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 01:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA ALBUM UNBOXING (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-25472308</link>
+            <guid>https://www.vlive.tv/post/1-25472308</guid>
+            <pubDate>Sat, 18 Sep 2021 01:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[1 hour ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210917_46/1631886447757dhJeC_JPEG/1631885654379.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LISA - ‘LALISA’ DANCE PRACTICE VIDEO (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-25448684</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25377660</guid>
             <pubDate>Tue, 14 Sep 2021 11:32:11 GMT</pubDate>
             <content:encoded><![CDATA[Sep 14]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210913_203/1631513744546ip8y2_JPEG/image.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA - #OUTNOW Unlimited LISA REMINDER (BLACKPINK ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[LISA - ‘LALISA’ COUNTDOWN LIVE EVENT (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-25119984</link>
             <guid>https://www.vlive.tv/post/0-25119984</guid>
-            <pubDate>Wed, 01 Sep 2021 15:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[Sep 1]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LISA - ‘LALISA’ COUNTDOWN LIVE (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-25117754</link>
-            <guid>https://www.vlive.tv/post/0-25117754</guid>
             <pubDate>Wed, 01 Sep 2021 15:38:45 GMT</pubDate>
             <content:encoded><![CDATA[Sep 1]]></content:encoded>
         </item>
