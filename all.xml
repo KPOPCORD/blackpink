@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 14:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 15:37:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LISA - ‘MONEY’ DANCE PRACTICE VIDEO (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-25873336</link>
+            <guid>https://www.vlive.tv/post/0-25873336</guid>
+            <pubDate>Sun, 10 Oct 2021 15:37:27 GMT</pubDate>
+            <content:encoded><![CDATA[37 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211010_79/1633876495014kPAMq_JPEG/1633876246119.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LISA - ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-25581601</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25472308</guid>
             <pubDate>Sat, 25 Sep 2021 04:45:38 GMT</pubDate>
             <content:encoded><![CDATA[Sep 18]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210917_46/1631886447757dhJeC_JPEG/1631885654379.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA - ‘LALISA’ DANCE PRACTICE VIDEO (BLACKPINK ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25185744</guid>
             <pubDate>Sat, 25 Sep 2021 04:45:38 GMT</pubDate>
             <content:encoded><![CDATA[Sep 4]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK 5th ANNIVERSARY [4+1] POP-UP WITH BLINK (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-25150921</link>
-            <guid>https://www.vlive.tv/post/1-25150921</guid>
-            <pubDate>Sat, 25 Sep 2021 04:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[Sep 3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LISA - #OUTNOW Unlimited LISA LIVE (BLACKPINK ─ Notice)]]></title>
