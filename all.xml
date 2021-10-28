@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 01:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 02:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트레저 ‘오렌지’, 아이돌 최고 가을 감성 노래 1위 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/170803?lang=ko</link>
+            <guid>https://yg-life.com/archives/170803?lang=ko</guid>
+            <pubDate>Thu, 28 Oct 2021 11:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스=김수진 기자] 트레저의 ‘THE FIRST STEP : CHAPTER THREE’ 앨범 수록곡 ‘오렌지 (ORANGE)’가 글...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/01/510cad95d00bec47d96e430f1e9b6e43-e1609487527835.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙핑크 “온난화 가속…지구 살리는 공동 목표로 나아가야” (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/170783?lang=ko</link>
             <guid>https://yg-life.com/archives/170783?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울=정하은 기자] 블랙핑크 리사가 솔로 앨범 ‘LALISA’로 글로벌 유튜브 차트를 2주 연속 점령했다. 26일 발표된 유튜브 최신 차트(2021.09.17~2021.09...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/08/0c67f296ca25e973cd5c68110bbadfda-e1630245724964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 ‘킬 디스 러브’ 뮤직비디오 14억뷰 돌파 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170363?lang=ko</link>
-            <guid>https://yg-life.com/archives/170363?lang=ko</guid>
-            <pubDate>Sun, 26 Sep 2021 12:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴시스=이현주 기자] 블랙핑크의 ‘킬 디스 러브(Kill This Love)’ 뮤직비디오가 유튜브에서 14억뷰를 돌파했다. 26일 YG엔터테인먼트에 따르면 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/93005332dc4af1f593d2c079849f10a2-e1632561185571.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
