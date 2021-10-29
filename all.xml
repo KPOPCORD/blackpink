@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 03:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 04:47:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리사, 3억뷰 돌파…’LALISA’ 뮤비 조회수 최단 신기록 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/170815?lang=ko</link>
+            <guid>https://yg-life.com/archives/170815?lang=ko</guid>
+            <pubDate>Fri, 29 Oct 2021 04:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[[더팩트=김샛별 기자] 그룹 블랙핑크 리사의 첫 솔로 앨범 타이틀곡 ‘LALISA’ 뮤직비디오가 공개 48일 만에 3억 뷰를 돌파했다. YG엔터테인먼트는 27...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/1af4a13b6c23cc6225f30781b17ffd37-e1635299879876.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트레저 ‘오렌지’, 아이돌 최고 가을 감성 노래 1위 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/170803?lang=ko</link>
             <guid>https://yg-life.com/archives/170803?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저의 첫 ‘프라이빗 스테이지’가 4일 앞으로 다가온 가운데 팬들을 위한 특별한 퍼포먼스가 예고돼 기대를 모은다. ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/08/e2cbe246e7445e9a55d7a883aca01c41-e1629691090448.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, 글로벌 유튜브 송-뮤비 차트 2주 연속 1위 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170368?lang=ko</link>
-            <guid>https://yg-life.com/archives/170368?lang=ko</guid>
-            <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울=정하은 기자] 블랙핑크 리사가 솔로 앨범 ‘LALISA’로 글로벌 유튜브 차트를 2주 연속 점령했다. 26일 발표된 유튜브 최신 차트(2021.09.17~2021.09...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/08/0c67f296ca25e973cd5c68110bbadfda-e1630245724964.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
