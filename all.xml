@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 03:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 04:46:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크 리사 ‘MONEY’, 英 오피셜차트 4주 연속 역주행..인기 롱런 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/170852?lang=ko</link>
+            <guid>https://yg-life.com/archives/170852?lang=ko</guid>
+            <pubDate>Sat, 30 Oct 2021 04:46:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스=공미나 기자] 그룹 블랙핑크 리사의 솔로 앨범 수록곡 ‘MONEY’가 영국 오피셜 차트서 또 한 번 순위를 끌어올렸다. 29일(현지시간) 발표된 영...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/e8ffcd142fea6181f285125612190914-e1631197981402.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙핑크 ‘러브식 걸즈’ 뮤비 5억뷰-‘불장난’ 7억뷰 돌파 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/170846?lang=ko</link>
             <guid>https://yg-life.com/archives/170846?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저의 첫 ‘프라이빗 스테이지’ 현장을 미리 만나볼 수 있는 특별한 이벤트가 준비돼 관심이 집중된다. YG엔터테인먼...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/bd4d8946c5d8bb74a779428a34b420b4-e1633093247399.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, ‘프라이빗 스테이지’ D-2 스포일러 영상 공개 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170425?lang=ko</link>
-            <guid>https://yg-life.com/archives/170425?lang=ko</guid>
-            <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] YG 그룹 트레저의 데뷔 첫 ‘프라이빗 스테이지’가 이틀 앞으로 다가온 가운데 공연 스포일러가 담긴 VCR 촬영 현장 비하인드 영상이...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/13214c3946d2d637b993deaca067d9f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
