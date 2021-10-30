@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 23:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 01:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 ‘러브식 걸즈’ 뮤비 5억뷰-‘불장난’ 7억뷰 돌파]]></title>
+            <link>https://yg-life.com/archives/170846?lang=ko</link>
+            <guid>https://yg-life.com/archives/170846?lang=ko</guid>
+            <pubDate>Sat, 30 Oct 2021 01:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자] 블랙핑크의 유튜브 억대 뷰 행진이 끊임없이 이어지고 있어 주목된다. 최신곡의 뮤직비디오 조회수 상승 추이는 더욱 가팔러졌고 기존 히트곡들 또한 그 인기...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/139012e249b82a772e975285ad5e1513-e1635516369441.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리사, 3억뷰 돌파…’LALISA’ 뮤비 조회수 최단 신기록]]></title>
             <link>https://yg-life.com/archives/170815?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=선미경 기자] YG 그룹 트레저의 데뷔 첫 ‘프라이빗 스테이지’가 이틀 앞으로 다가온 가운데 공연 스포일러가 담긴 VCR 촬영 현장 비하인드 영상이...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/13214c3946d2d637b993deaca067d9f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, ‘프라이빗 스테이지’ D-4 기대포인트..올림픽홀 달굴 역대급 퍼포먼스 예고]]></title>
-            <link>https://yg-life.com/archives/170411?lang=ko</link>
-            <guid>https://yg-life.com/archives/170411?lang=ko</guid>
-            <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저의 첫 ‘프라이빗 스테이지’가 4일 앞으로 다가온 가운데 팬들을 위한 특별한 퍼포먼스가 예고돼 기대를 모은다. ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/08/e2cbe246e7445e9a55d7a883aca01c41-e1629691090448.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
