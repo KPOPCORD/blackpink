@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 10:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 11:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저, 핼러윈 맞이 릴레이 라이브..새 프로젝트 깜짝 예고]]></title>
+            <link>https://yg-life.com/archives/170875?lang=ko</link>
+            <guid>https://yg-life.com/archives/170875?lang=ko</guid>
+            <pubDate>Sun, 31 Oct 2021 11:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저가 핼러윈데이를 맞아 다양한 만화·영화 캐릭터로 변신한 가운데 새로운 프로젝트를 깜짝 예고했다. YG엔터테인먼트는 31일 공식 블로그...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/3dd27a3a51c4f51d4a6bff7e85587ccb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사 ‘MONEY’, 英 오피셜차트 4주 연속 역주행..인기 롱런]]></title>
             <link>https://yg-life.com/archives/170852?lang=ko</link>
@@ -189,14 +197,6 @@
             <guid>https://yg-life.com/archives/170461?lang=ko</guid>
             <pubDate>Sun, 03 Oct 2021 10:29:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 트레저가 데뷔 첫 팬미팅을 성공적으로 마무리하고 뜨거운 팬사랑을 입증했다. 트레저는 2일 오후 서울 방이동 올림픽홀에서 ‘1ST PRIVA...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/bd4d8946c5d8bb74a779428a34b420b4-e1633093247399.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, 오늘(1일) D-1 ‘프라이빗 스테이지’ 리허설 현장 공개]]></title>
-            <link>https://yg-life.com/archives/170440?lang=ko</link>
-            <guid>https://yg-life.com/archives/170440?lang=ko</guid>
-            <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저의 첫 ‘프라이빗 스테이지’ 현장을 미리 만나볼 수 있는 특별한 이벤트가 준비돼 관심이 집중된다. YG엔터테인먼...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/bd4d8946c5d8bb74a779428a34b420b4-e1633093247399.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
