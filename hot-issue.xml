@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 04:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저, 본격 연기 도전…’남고괴담’ 12일 첫 공개]]></title>
+            <link>https://yg-life.com/archives/170915?lang=ko</link>
+            <guid>https://yg-life.com/archives/170915?lang=ko</guid>
+            <pubDate>Mon, 01 Nov 2021 05:33:52 GMT</pubDate>
+            <content:encoded><![CDATA[[엑스포츠뉴스=하지원 기자] 트레저가 정식 웹드라마를 통해 무한한 가능성과 연기 재능을 펼친다. YG엔터테인먼트에 따르면 트레저는 11월 12일 첫 공개되는 새 웹드라마 ̵...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/477ea668cba19b24660df0bce09bafd0-e1635691719958.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG 트레저, 핼러윈 맞이 릴레이 라이브..새 프로젝트 깜짝 예고]]></title>
             <link>https://yg-life.com/archives/170875?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 05 Oct 2021 12:03:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 트레저가 ‘YG 대형 신인’ 수식어에 걸맞은 무대 장악력과 탄탄한 라이브 실력을 증명하며 전 세계 100여 개국 팬들을 열광케 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/46b955ae758c6ce62e38ad22dc9cc921-e1633402844555.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“커밍쑨” 트레저, 과거·현재·미래 담은 첫 팬미팅..컴백 예고까지 (‘TEU-DAY’)]]></title>
-            <link>https://yg-life.com/archives/170461?lang=ko</link>
-            <guid>https://yg-life.com/archives/170461?lang=ko</guid>
-            <pubDate>Sun, 03 Oct 2021 10:29:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 트레저가 데뷔 첫 팬미팅을 성공적으로 마무리하고 뜨거운 팬사랑을 입증했다. 트레저는 2일 오후 서울 방이동 올림픽홀에서 ‘1ST PRIVA...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/bd4d8946c5d8bb74a779428a34b420b4-e1633093247399.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
