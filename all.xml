@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 05:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 06:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“데이트 느낌”..YG 트레서 요시, 아사히x최현석 이어 셀프캠 팬서비스 폭발 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/170936?lang=ko</link>
+            <guid>https://yg-life.com/archives/170936?lang=ko</guid>
+            <pubDate>Tue, 02 Nov 2021 06:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] YG 대형 그룹 트레저 요시가 꾸밈없는 일상 속 친근한 매력으로 팬들의 마음에 한 발 더 다가섰다. YG엔터테인먼트는 27일 공식 SNS에 트레저의 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/e6e5843ec650e734a5ab4fc4ee5d2388-e1635832872645.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, 본격 연기 도전…’남고괴담’ 12일 첫 공개 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/170915?lang=ko</link>
             <guid>https://yg-life.com/archives/170915?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Thu, 07 Oct 2021 09:59:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=이승훈 기자] 위너 강승윤 송민호가 데뷔 첫 솔로 콘서트 개최를 확정해 글로벌 음악 팬들의 관심이 집중된다. YG엔터테인먼트에 따르면 송민호는 오는 11월 19일, 강승...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/0138d3b77de4ed448db373e922b1e462-e1633442930726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, 100개국 팬들과 눈물⋅환희의 첫 만남..”컴백 기대” (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170471?lang=ko</link>
-            <guid>https://yg-life.com/archives/170471?lang=ko</guid>
-            <pubDate>Tue, 05 Oct 2021 12:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 트레저가 ‘YG 대형 신인’ 수식어에 걸맞은 무대 장악력과 탄탄한 라이브 실력을 증명하며 전 세계 100여 개국 팬들을 열광케 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/46b955ae758c6ce62e38ad22dc9cc921-e1633402844555.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
