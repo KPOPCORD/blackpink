@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 04:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저 지훈, 아이돌인데 복근 공개를?..깨발랄 매력 화수분]]></title>
+            <link>https://yg-life.com/archives/170968?lang=ko</link>
+            <guid>https://yg-life.com/archives/170968?lang=ko</guid>
+            <pubDate>Fri, 05 Nov 2021 05:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] YG 대형 그룹 트레저 지훈이 열정 가득한 일상 속 통통 튀는 매력으로 팬들에게 한층 더 가까이 다가갔다. YG엔터테인먼트는 5일 공식 SNS에 트레저의 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/45da35689dcac6e1080e2a5e232f5dc3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크로 본 YG의 변화]]></title>
             <link>https://yg-life.com/archives/170957?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 08 Oct 2021 10:02:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리=박윤진 기자] 데뷔 7년차 그룹 아이콘(iKON)이 케이팝 팬덤을 위한 애플리케이션 ‘블립’의 신규 아티스트로 선정됐다. 7일 ‘블립&amp;...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/02/0a0ebe13cb8f62960a2bfb8665c40d78-e1614001202906.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘 ‘죽겠다’ 뮤직비디오 2억뷰 돌파!]]></title>
-            <link>https://yg-life.com/archives/170530?lang=ko</link>
-            <guid>https://yg-life.com/archives/170530?lang=ko</guid>
-            <pubDate>Thu, 07 Oct 2021 11:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자] 아이콘(iKON)의 ‘죽겠다’ 뮤직비디오가 유튜브에서 2억뷰를 돌파했다. 6일 YG엔터테인먼트에 따르면 아이콘의 ‘죽겠...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/05dc8287d0d0ff3c3d5ebce5f98418b4-e1633430493177.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
