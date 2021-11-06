@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 07:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 08:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG 트레저, ‘남고괴담’ 티저 영상 공개..섬뜩+오싹한 분위기에 몰입도 UP (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/170993?lang=ko</link>
+            <guid>https://yg-life.com/archives/170993?lang=ko</guid>
+            <pubDate>Sat, 06 Nov 2021 08:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=천윤혜 기자] YG 대형 그룹 트레저의 새 웹드라마 ‘남고괴담’ 티저 영상이 5일 밤 10시 최초 공개됐다. 영상은 ‘분신사바R...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/71ee7c007652e049a8add04dc6869896.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저 지훈, 아이돌인데 복근 공개를?..깨발랄 매력 화수분 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/170968?lang=ko</link>
             <guid>https://yg-life.com/archives/170968?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Fri, 08 Oct 2021 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=선미경 기자] YG 대형 그룹 트레저가 소소한 일상을 공유하며 글로벌 팬들에게 더욱 친근하게 다가섰다. YG엔터테인먼트는 7일 공식 SNS에 트레저의 유쾌한 하루를 담은...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/b6840651048545345353077ee16d5ffb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘, 케이팝 팬덤앱 ‘블립’ 신규 아티스트 선정 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170546?lang=ko</link>
-            <guid>https://yg-life.com/archives/170546?lang=ko</guid>
-            <pubDate>Fri, 08 Oct 2021 10:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리=박윤진 기자] 데뷔 7년차 그룹 아이콘(iKON)이 케이팝 팬덤을 위한 애플리케이션 ‘블립’의 신규 아티스트로 선정됐다. 7일 ‘블립&amp;...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/02/0a0ebe13cb8f62960a2bfb8665c40d78-e1614001202906.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
