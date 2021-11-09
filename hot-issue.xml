@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 06:43:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG, 제페토서 블랙핑크 코첼라 의상 한정 판매]]></title>
+            <link>https://yg-life.com/archives/171023?lang=ko</link>
+            <guid>https://yg-life.com/archives/171023?lang=ko</guid>
+            <pubDate>Tue, 09 Nov 2021 06:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[[파이낸셜뉴스=신진아 기자] YG&nbsp;아티스트와 팬들과의 특별한 프로젝트 공간 ‘더 세임 (the&nbsp;SameE)’이 제페토에 펼쳐진다. YG엔터테인먼트는 8일 아시...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/b3fb2279f70a561b7932b20278583da8-e1636439216654.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[YG 트레저, ‘남고괴담’ 티저 영상 공개..섬뜩+오싹한 분위기에 몰입도 UP]]></title>
             <link>https://yg-life.com/archives/170993?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자] 블랙핑크 리사가 첫 솔로 음반 타이틀곡 ‘라리사’로 기네스 세계 기록에 공식 등재됐다. 영국 기네스 월드 레코드(Guinness ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/3c7b2b085e5c539e007ba9392512a72b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, 새 콘텐츠 ‘TMI-LOG’ 기습 공개..첫 주자는 아사히]]></title>
-            <link>https://yg-life.com/archives/170552?lang=ko</link>
-            <guid>https://yg-life.com/archives/170552?lang=ko</guid>
-            <pubDate>Fri, 08 Oct 2021 10:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] YG 대형 그룹 트레저가 소소한 일상을 공유하며 글로벌 팬들에게 더욱 친근하게 다가섰다. YG엔터테인먼트는 7일 공식 SNS에 트레저의 유쾌한 하루를 담은...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/b6840651048545345353077ee16d5ffb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
