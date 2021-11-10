@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 02:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 03:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 빌보드 ‘핫100’ 2주 연속 차트인…K팝 여솔로 최초]]></title>
+            <link>https://yg-life.com/archives/171040?lang=ko</link>
+            <guid>https://yg-life.com/archives/171040?lang=ko</guid>
+            <pubDate>Wed, 10 Nov 2021 03:37:29 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스1=고승아 기자] 그룹 블랙핑크 리사가 ‘머니'(MONEY)로 미국 빌보드 ‘핫100’에 또 이름을 올리며 K팝 여성 솔로 신기록을 갈아치웠다...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/50520527dd344f367337598f121a9a89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG, 제페토서 블랙핑크 코첼라 의상 한정 판매]]></title>
             <link>https://yg-life.com/archives/171023?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 11 Oct 2021 11:01:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=이준현 기자] 블랙핑크 리사의 ‘MONEY’가 글로벌 음악 팬들의 뜨거운 사랑을 받고 있는 가운데, 전체 안무가 담긴 새로운 영상이 베일을 벗어 관...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/fb8b9ca1e46fefa110b3ef652cd45175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리사, 기네스 세계 신기록 공식 등재]]></title>
-            <link>https://yg-life.com/archives/170581?lang=ko</link>
-            <guid>https://yg-life.com/archives/170581?lang=ko</guid>
-            <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자] 블랙핑크 리사가 첫 솔로 음반 타이틀곡 ‘라리사’로 기네스 세계 기록에 공식 등재됐다. 영국 기네스 월드 레코드(Guinness ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/3c7b2b085e5c539e007ba9392512a72b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
