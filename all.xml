@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 15:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 16:58:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크 ‘HYLT’ 안무영상이 9억뷰…최초·최고·최다 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/171059?lang=ko</link>
+            <guid>https://yg-life.com/archives/171059?lang=ko</guid>
+            <pubDate>Thu, 11 Nov 2021 16:58:18 GMT</pubDate>
+            <content:encoded><![CDATA[[매일경제 스타투데이=박세연 기자] 그룹 블랙핑크의 ‘How You Like That’ 안무 영상이 유튜브에서 9억뷰를 돌파했다. YG엔터테인먼트에 따르면 블랙핑크의 ‘How Yo...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/161fc97a335b4c3bc92b95eff1d0ce07-e1636276217836.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙핑크 리사, 빌보드 ‘핫100’ 2주 연속 차트인…K팝 여솔로 최초 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/171040?lang=ko</link>
             <guid>https://yg-life.com/archives/171040?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리=강다윤 기자] 블랙핑크 리사의 데뷔 첫 솔로 앨범 수록곡 ‘머니(MONEY)’가 타이틀곡 ‘LALISA’ 못지않은 인기 뒷심...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/3b2f86e74941db63a81645e29a57172f-e1632061914250.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, ‘MONEY’ 전체 안무 최초 공개…’압도적 퍼포먼스’ (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170606?lang=ko</link>
-            <guid>https://yg-life.com/archives/170606?lang=ko</guid>
-            <pubDate>Mon, 11 Oct 2021 11:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이준현 기자] 블랙핑크 리사의 ‘MONEY’가 글로벌 음악 팬들의 뜨거운 사랑을 받고 있는 가운데, 전체 안무가 담긴 새로운 영상이 베일을 벗어 관...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/fb8b9ca1e46fefa110b3ef652cd45175.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
