@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 05:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 06:43:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크 ‘How You Like That’ MV 10억뷰 돌파..통산 5번째 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/171073?lang=ko</link>
+            <guid>https://yg-life.com/archives/171073?lang=ko</guid>
+            <pubDate>Fri, 12 Nov 2021 06:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=박서현 기자] 블랙핑크의 ‘How You Like That’ 뮤직비디오가 유튜브 10억 뷰 고지를 점령했다. 블랙핑크 통산 5번째이자 같은 조회수에 도달한 K팝 걸그...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/caeac35be43a5281cc97faef44264df3-e1636683946117.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙핑크 ‘HYLT’ 안무영상이 9억뷰…최초·최고·최다 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/171059?lang=ko</link>
             <guid>https://yg-life.com/archives/171059?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Wed, 13 Oct 2021 11:43:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향=김영웅 기자] 블랙핑크의 인기가 식을 줄 모른다. 소속사 YG엔터테인먼트는 13일 “블랙핑크의 정규 1집 수록곡 ‘Pretty Savage’가 지난 12일 세계 최대 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/93005332dc4af1f593d2c079849f10a2-e1632561185571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, 수록곡 ‘머니’ 인기 뒷심…단숨에 쌓인 하이 커리어 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170617?lang=ko</link>
-            <guid>https://yg-life.com/archives/170617?lang=ko</guid>
-            <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리=강다윤 기자] 블랙핑크 리사의 데뷔 첫 솔로 앨범 수록곡 ‘머니(MONEY)’가 타이틀곡 ‘LALISA’ 못지않은 인기 뒷심...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/3b2f86e74941db63a81645e29a57172f-e1632061914250.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
