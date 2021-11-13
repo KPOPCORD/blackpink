@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 04:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 05:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트레저, ‘남고괴담’ 공개 반나절 만에 100만 뷰 육박 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/171094?lang=ko</link>
+            <guid>https://yg-life.com/archives/171094?lang=ko</guid>
+            <pubDate>Sat, 13 Nov 2021 05:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자] YG 대형 그룹 트레저(TREASURE)의 웹드라마 ‘남고괴담’이 글로벌 팬들의 호평 속 무서운 인기몰이에 나서 주목된다. 13일 Y...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/4527684cee5bd9cbfc741ef8c1cb8671.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[블랙핑크 ‘How You Like That’ MV 10억뷰 돌파..통산 5번째 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/171073?lang=ko</link>
             <guid>https://yg-life.com/archives/171073?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[[YTN=지승훈 기자] 그룹 블랙핑크 리사가 DJ 스네이크와 협업한다. YG엔터테인먼트 측 관계자는 14일 오후 YTN star에 “리사는 DJ 스네이크와 같이 협업하였...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/3b2f86e74941db63a81645e29a57172f-e1632061914250.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 ‘Pretty Savage’, 스포티파이 2억 스트리밍 돌파 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170633?lang=ko</link>
-            <guid>https://yg-life.com/archives/170633?lang=ko</guid>
-            <pubDate>Wed, 13 Oct 2021 11:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향=김영웅 기자] 블랙핑크의 인기가 식을 줄 모른다. 소속사 YG엔터테인먼트는 13일 “블랙핑크의 정규 1집 수록곡 ‘Pretty Savage’가 지난 12일 세계 최대 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/93005332dc4af1f593d2c079849f10a2-e1632561185571.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
