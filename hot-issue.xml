@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 01:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 02:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이콘 구준회, “선한 영향력을 주는 사람이 되고 싶어”]]></title>
+            <link>https://yg-life.com/archives/171106?lang=ko</link>
+            <guid>https://yg-life.com/archives/171106?lang=ko</guid>
+            <pubDate>Mon, 15 Nov 2021 10:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리=송일섭 기자] 아이돌 그룹 아이콘(iKON) 구준회가 색다른 화보를 공개했다. 구준회는 패션 매거진 ‘데이즈드’를 통해 공개한 인터뷰와 화보에서 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/22da019550f057d31b3f4c604a184abc-e1636941000449.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[트레저, ‘남고괴담’ 공개 반나절 만에 100만 뷰 육박]]></title>
             <link>https://yg-life.com/archives/171094?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향=안병길 기자] 글로벌 최고 인기 아티스트 리사가 9월 케이팝 레이더 ‘이달의 아티스트’에 선정됐다. 케이팝 레이더는 15일 “리사의 첫 솔로 데뷔 곡 ‘LALISA’ ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/e8ffcd142fea6181f285125612190914-e1631197981402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, DJ 스네이크와 글로벌 협업…YG “기대하고 있다”]]></title>
-            <link>https://yg-life.com/archives/170663?lang=ko</link>
-            <guid>https://yg-life.com/archives/170663?lang=ko</guid>
-            <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[YTN=지승훈 기자] 그룹 블랙핑크 리사가 DJ 스네이크와 협업한다. YG엔터테인먼트 측 관계자는 14일 오후 YTN star에 “리사는 DJ 스네이크와 같이 협업하였...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/3b2f86e74941db63a81645e29a57172f-e1632061914250.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
