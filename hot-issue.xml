@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 06:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저 도영, 일상 속 특별한 순간 담은 ‘TMI-LOG’ 공개]]></title>
+            <link>https://yg-life.com/archives/171117?lang=ko</link>
+            <guid>https://yg-life.com/archives/171117?lang=ko</guid>
+            <pubDate>Mon, 15 Nov 2021 06:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박판석 기자] YG 대형 그룹 트레저 도영이 평범한 일상 속 특별한 순간을 글로벌 팬들과 공유했다. YG엔터테인먼트는 15일 공식 SNS에 트레저의 ‘TMI-...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/d8dc7d30380657a1c451897f0d16d566.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이콘 구준회, “선한 영향력을 주는 사람이 되고 싶어”]]></title>
             <link>https://yg-life.com/archives/171106?lang=ko</link>
@@ -189,14 +197,6 @@
             <guid>https://yg-life.com/archives/170678?lang=ko</guid>
             <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=서예진 기자] 블랙핑크 리사(LISA)가 디제이 스네이크(DJ Snake)의 새 싱글에 참여했다고 YG엔터테인먼트가 16일 밝혔다. 노래 제목은 ‘SGR...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/e8ffcd142fea6181f285125612190914-e1631197981402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사 ‘이달의 아티스트’ 선정]]></title>
-            <link>https://yg-life.com/archives/170671?lang=ko</link>
-            <guid>https://yg-life.com/archives/170671?lang=ko</guid>
-            <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향=안병길 기자] 글로벌 최고 인기 아티스트 리사가 9월 케이팝 레이더 ‘이달의 아티스트’에 선정됐다. 케이팝 레이더는 15일 “리사의 첫 솔로 데뷔 곡 ‘LALISA’ ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/e8ffcd142fea6181f285125612190914-e1631197981402.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
