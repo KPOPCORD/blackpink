@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 23:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 01:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위너 송민호, 솔로컴백…’테이크’ 이후 1년만 복귀]]></title>
+            <link>https://yg-life.com/archives/171242?lang=ko</link>
+            <guid>https://yg-life.com/archives/171242?lang=ko</guid>
+            <pubDate>Mon, 22 Nov 2021 01:34:29 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선=백지은 기자] 그룹 위너 송민호가 솔로컴백한다. YG엔터테인먼트는 22일 공식 블로그에 커밍순 포스터를 공개, 송민호의 솔로 컴백을 알렸다. 송민호의 솔로 컴백은 정규...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/444575d46f9052bc513cdff9ac95895c-e1637500081763.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“커플 윙크, 찐 케미”…블랙핑크 제니, 송민호 특급 지원사격]]></title>
             <link>https://yg-life.com/archives/171209?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 25 Oct 2021 11:20:55 GMT</pubDate>
             <content:encoded><![CDATA[[연합뉴스=이태수 기자] 걸그룹 블랙핑크가 유튜브 주최로 열린 환경보호 행사에서 기후 온난화 등 환경 이슈에 적극적으로 목소리를 내고 “지구를 살리자”라고 호...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/cda184901f364c9d63e8b83b98b6db07.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저 최현석, ‘TMI-LOG’ 출격..’초긍정’]]></title>
-            <link>https://yg-life.com/archives/170765?lang=ko</link>
-            <guid>https://yg-life.com/archives/170765?lang=ko</guid>
-            <pubDate>Sat, 23 Oct 2021 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스=김수진 기자] YG 대형 신인 트레저 최현석이 평범한 일상 속 유쾌한 에너지로 팬들에게 미소를 안겼다. YG엔터테인먼트는 22일 공식 SNS에 트레저의 ‘TM...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/3bd24a043e7fce942fb9fa27c7f0173a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
