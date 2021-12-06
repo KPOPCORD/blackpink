@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 01:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 02:50:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송민호 컴백 D-1, 정규3집 맛보기 음원 공개..아티스트 진면목 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/171469?lang=ko</link>
+            <guid>https://yg-life.com/archives/171469?lang=ko</guid>
+            <pubDate>Mon, 06 Dec 2021 10:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 위너 멤버 송민호(MINO)가 솔로 컴백을 하루 앞두고 새 앨범에 담긴 전곡 맛보기 음원을 공개, 글로벌 팬들의 눈과 귀를 사로잡았다. YG엔터테인먼...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/3ee48563e116f298a467dac2d378238b-e1638706298200.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙핑크 리사 ‘MONEY’ 안무 영상 3억뷰 돌파…또 ‘최단 신기록’ (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/171375?lang=ko</link>
             <guid>https://yg-life.com/archives/171375?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Sat, 30 Oct 2021 04:46:16 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스=공미나 기자] 그룹 블랙핑크 리사의 솔로 앨범 수록곡 ‘MONEY’가 영국 오피셜 차트서 또 한 번 순위를 끌어올렸다. 29일(현지시간) 발표된 영...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/e8ffcd142fea6181f285125612190914-e1631197981402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 ‘러브식 걸즈’ 뮤비 5억뷰-‘불장난’ 7억뷰 돌파 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/170846?lang=ko</link>
-            <guid>https://yg-life.com/archives/170846?lang=ko</guid>
-            <pubDate>Sat, 30 Oct 2021 01:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자] 블랙핑크의 유튜브 억대 뷰 행진이 끊임없이 이어지고 있어 주목된다. 최신곡의 뮤직비디오 조회수 상승 추이는 더욱 가팔러졌고 기존 히트곡들 또한 그 인기...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/139012e249b82a772e975285ad5e1513-e1635516369441.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
