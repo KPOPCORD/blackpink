@@ -4,9 +4,17 @@
         <title>BLACKPINK ─ To. BLINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 11:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 12:55:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직도 있는 쁘이앱✌🏻]]></title>
+            <link>https://www.vlive.tv/post/1-26823375</link>
+            <guid>https://www.vlive.tv/post/1-26823375</guid>
+            <pubDate>Mon, 06 Dec 2021 12:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/271100/thumb?type=f640_362" length="0" type="image//live/271100/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[REPLAY] 아직 있는 브이앱✌🏻]]></title>
             <link>https://www.vlive.tv/post/0-26205224</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-24023349</guid>
             <pubDate>Thu, 28 Oct 2021 13:37:51 GMT</pubDate>
             <content:encoded><![CDATA[8.3.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210712_18/1626044437406HMgvX_JPEG/1cbc427c-e29b-11eb-ac81-a0369ff94ed0_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안농 안농]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-22545568</guid>
             <pubDate>Thu, 28 Oct 2021 13:37:51 GMT</pubDate>
             <content:encoded><![CDATA[4.24.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[필름이 나와서]]></title>
-            <link>https://www.vlive.tv/post/0-22276319</link>
-            <guid>https://www.vlive.tv/post/0-22276319</guid>
-            <pubDate>Thu, 28 Oct 2021 13:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[4.10.]]></content:encoded>
         </item>
     </channel>
 </rss>
