@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 10:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 11:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 이미지 직접 골랐다..’LALISA’ 스페셜 포토북 예판 오픈]]></title>
+            <link>https://yg-life.com/archives/171625?lang=ko</link>
+            <guid>https://yg-life.com/archives/171625?lang=ko</guid>
+            <pubDate>Thu, 09 Dec 2021 11:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 블랙핑크 리사의 첫 솔로 싱글 앨범 ‘LALISA’ 포토북 스페셜 에디션 예약 판매가 오늘(8일) 오전 11시부터 시작됐다. LISA...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/08/37be9ce36f0d60fa12298d4d588dc07b-e1629900161316.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG 트레저, ‘BOY’ MV 1억뷰 돌파..데뷔 후 첫 기록]]></title>
             <link>https://yg-life.com/archives/171617?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 02 Nov 2021 06:43:25 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=박소영 기자] YG 대형 그룹 트레저 요시가 꾸밈없는 일상 속 친근한 매력으로 팬들의 마음에 한 발 더 다가섰다. YG엔터테인먼트는 27일 공식 SNS에 트레저의 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/e6e5843ec650e734a5ab4fc4ee5d2388-e1635832872645.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, 본격 연기 도전…’남고괴담’ 12일 첫 공개]]></title>
-            <link>https://yg-life.com/archives/170915?lang=ko</link>
-            <guid>https://yg-life.com/archives/170915?lang=ko</guid>
-            <pubDate>Mon, 01 Nov 2021 05:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[[엑스포츠뉴스=하지원 기자] 트레저가 정식 웹드라마를 통해 무한한 가능성과 연기 재능을 펼친다. YG엔터테인먼트에 따르면 트레저는 11월 12일 첫 공개되는 새 웹드라마 ̵...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/477ea668cba19b24660df0bce09bafd0-e1635691719958.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
