@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 01:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 02:49:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, 위버스 글로벌 멤버십 오픈..상시 모집 형태로 변경]]></title>
+            <link>https://yg-life.com/archives/171740?lang=ko</link>
+            <guid>https://yg-life.com/archives/171740?lang=ko</guid>
+            <pubDate>Thu, 16 Dec 2021 11:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 블랙핑크의 팬클럽이 기수제 모집 형태에서 벗어나 언제든 가입이 가능하고 특별한 혜택도 받을 수 있는 방식으로 변경된다. YG엔터테인먼트는 블랙핑크의 글로벌...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/57f2ad53cd71afee3cd8004287ed70c4-e1639622952295.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[트레저 웹드라마 ‘남고괴담’, 한달 만에 1000만뷰 돌파..글로벌 영향력]]></title>
             <link>https://yg-life.com/archives/171712?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 10 Nov 2021 03:37:29 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스1=고승아 기자] 그룹 블랙핑크 리사가 ‘머니'(MONEY)로 미국 빌보드 ‘핫100’에 또 이름을 올리며 K팝 여성 솔로 신기록을 갈아치웠다...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/50520527dd344f367337598f121a9a89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG, 제페토서 블랙핑크 코첼라 의상 한정 판매]]></title>
-            <link>https://yg-life.com/archives/171023?lang=ko</link>
-            <guid>https://yg-life.com/archives/171023?lang=ko</guid>
-            <pubDate>Tue, 09 Nov 2021 06:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[[파이낸셜뉴스=신진아 기자] YG&nbsp;아티스트와 팬들과의 특별한 프로젝트 공간 ‘더 세임 (the&nbsp;SameE)’이 제페토에 펼쳐진다. YG엔터테인먼트는 8일 아시...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/b3fb2279f70a561b7932b20278583da8-e1636439216654.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
