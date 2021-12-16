@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 11:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 12:55:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,14 +294,6 @@
             <content:encoded><![CDATA[Sep 23, 2020]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[퇴근🤍 (BLACKPINK ─ To. BLINK)]]></title>
-            <link>https://www.vlive.tv/post/0-26960771</link>
-            <guid>https://www.vlive.tv/post/0-26960771</guid>
-            <pubDate>Thu, 16 Dec 2021 11:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[7분 전]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/272012/thumb?type=f640_362" length="0" type="image//live/272012/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[REPLAY] 아직도 있는 쁘이앱✌🏻 (BLACKPINK ─ To. BLINK)]]></title>
             <link>https://www.vlive.tv/post/1-26823375</link>
             <guid>https://www.vlive.tv/post/1-26823375</guid>
@@ -323,6 +315,7 @@
             <guid>https://www.vlive.tv/post/1-25310205</guid>
             <pubDate>Thu, 28 Oct 2021 13:37:51 GMT</pubDate>
             <content:encoded><![CDATA[9.13.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210913_33/1631486307427aIeb3_JPEG/f7edd783-1419-11ec-a613-505dac8c38f5_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[REPLAY] 오랜만에 퇴근 브이앱😘 (BLACKPINK ─ To. BLINK)]]></title>
@@ -435,6 +428,13 @@
             <guid>https://www.vlive.tv/post/0-22256808</guid>
             <pubDate>Thu, 28 Oct 2021 13:37:51 GMT</pubDate>
             <content:encoded><![CDATA[4.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블링꾸🤍 (BLACKPINK ─ To. BLINK)]]></title>
+            <link>https://www.vlive.tv/post/1-22545568</link>
+            <guid>https://www.vlive.tv/post/1-22545568</guid>
+            <pubDate>Thu, 16 Dec 2021 12:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[4.24.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ROSÉ ‘Gone’ MV 배경화면 (Exclusive ver.) (BLACKPINK ─ Contents)]]></title>
