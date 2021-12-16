@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 02:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 03:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 英 기관 선정 세계서 존경받는 여성 ‘톱20’]]></title>
+            <link>https://yg-life.com/archives/171748?lang=ko</link>
+            <guid>https://yg-life.com/archives/171748?lang=ko</guid>
+            <pubDate>Thu, 16 Dec 2021 11:52:00 GMT</pubDate>
+            <content:encoded><![CDATA[[세계일보=김형환 기자] 그룹 블랙핑크 리사가 영국 국제 여론조사기관이 선정한 세계에서 가장 존경받는 여성 20명 안에 뽑혔다. 영국의 국제 여론조사기관 유고브는 14일(현지시간)...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/e675159b2c7561628c13771d57c1b42b-e1639623118192.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크, 위버스 글로벌 멤버십 오픈..상시 모집 형태로 변경]]></title>
             <link>https://yg-life.com/archives/171740?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 11 Nov 2021 16:58:18 GMT</pubDate>
             <content:encoded><![CDATA[[매일경제 스타투데이=박세연 기자] 그룹 블랙핑크의 ‘How You Like That’ 안무 영상이 유튜브에서 9억뷰를 돌파했다. YG엔터테인먼트에 따르면 블랙핑크의 ‘How Yo...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/161fc97a335b4c3bc92b95eff1d0ce07-e1636276217836.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, 빌보드 ‘핫100’ 2주 연속 차트인…K팝 여솔로 최초]]></title>
-            <link>https://yg-life.com/archives/171040?lang=ko</link>
-            <guid>https://yg-life.com/archives/171040?lang=ko</guid>
-            <pubDate>Wed, 10 Nov 2021 03:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스1=고승아 기자] 그룹 블랙핑크 리사가 ‘머니'(MONEY)로 미국 빌보드 ‘핫100’에 또 이름을 올리며 K팝 여성 솔로 신기록을 갈아치웠다...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/50520527dd344f367337598f121a9a89.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
