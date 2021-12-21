@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 02:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 03:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저 마시호, 스케이트보드 제작부터 아쿠아리움 방문까지 ‘힐링데이’]]></title>
+            <link>https://yg-life.com/archives/171797?lang=ko</link>
+            <guid>https://yg-life.com/archives/171797?lang=ko</guid>
+            <pubDate>Tue, 21 Dec 2021 12:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신지원 기자] YG 대형 그룹 트레저(TREASURE) 멤버 마시호가 이색 체험으로 가득했던 스페셜한 하루를 공개했다. 21일 YG엔터테인먼트 공식 SNS에 게재된 트레...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/df54b0a25d28285dc4ba43e902fd8851.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사, 英 기관 선정 세계서 존경받는 여성 ‘톱20’]]></title>
             <link>https://yg-life.com/archives/171748?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 12 Nov 2021 06:43:44 GMT</pubDate>
             <content:encoded><![CDATA[[헤럴드POP=박서현 기자] 블랙핑크의 ‘How You Like That’ 뮤직비디오가 유튜브 10억 뷰 고지를 점령했다. 블랙핑크 통산 5번째이자 같은 조회수에 도달한 K팝 걸그...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/caeac35be43a5281cc97faef44264df3-e1636683946117.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 ‘HYLT’ 안무영상이 9억뷰…최초·최고·최다]]></title>
-            <link>https://yg-life.com/archives/171059?lang=ko</link>
-            <guid>https://yg-life.com/archives/171059?lang=ko</guid>
-            <pubDate>Thu, 11 Nov 2021 16:58:18 GMT</pubDate>
-            <content:encoded><![CDATA[[매일경제 스타투데이=박세연 기자] 그룹 블랙핑크의 ‘How You Like That’ 안무 영상이 유튜브에서 9억뷰를 돌파했다. YG엔터테인먼트에 따르면 블랙핑크의 ‘How Yo...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/161fc97a335b4c3bc92b95eff1d0ce07-e1636276217836.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
