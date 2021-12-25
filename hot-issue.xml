@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 03:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 04:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저 하투로, 10년 전부터 병원 신세+귀신 고백..가슴 먹먹한 눈물]]></title>
+            <link>https://yg-life.com/archives/171860?lang=ko</link>
+            <guid>https://yg-life.com/archives/171860?lang=ko</guid>
+            <pubDate>Sat, 25 Dec 2021 04:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 트레저의 웹드라마 ‘남고괴담’ 극 중 인물간 갈등이 최고조에 달해 마지막까지 손에 땀을 쥐게 하는 긴장감을 선사하고 있다. 지난 24...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/c2531255a0436441551d2f04123956e4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[YG 트레저, 산타가 따로 없네..팬들 위한 크리스마스 노래 선물 “최현석 작곡 참여”]]></title>
             <link>https://yg-life.com/archives/171838?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 15 Nov 2021 10:50:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리=송일섭 기자] 아이돌 그룹 아이콘(iKON) 구준회가 색다른 화보를 공개했다. 구준회는 패션 매거진 ‘데이즈드’를 통해 공개한 인터뷰와 화보에서 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/22da019550f057d31b3f4c604a184abc-e1636941000449.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, ‘남고괴담’ 공개 반나절 만에 100만 뷰 육박]]></title>
-            <link>https://yg-life.com/archives/171094?lang=ko</link>
-            <guid>https://yg-life.com/archives/171094?lang=ko</guid>
-            <pubDate>Sat, 13 Nov 2021 05:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자] YG 대형 그룹 트레저(TREASURE)의 웹드라마 ‘남고괴담’이 글로벌 팬들의 호평 속 무서운 인기몰이에 나서 주목된다. 13일 Y...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/4527684cee5bd9cbfc741ef8c1cb8671.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
