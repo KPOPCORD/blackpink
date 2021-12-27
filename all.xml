@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 06:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이콘 “2022년은 팬들과 함께할 시간 많아지길” (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/171869?lang=ko</link>
+            <guid>https://yg-life.com/archives/171869?lang=ko</guid>
+            <pubDate>Mon, 27 Dec 2021 06:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스=공미나 기자] 그룹 아이콘(iKON)이 마음 따뜻해지는 크리스마스 파티를 통해 글로벌 팬들과 소통하며 즐거운 시간을 보냈다. 소속사 YG엔터테인먼트가 25일, 26일 공...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/d1ab75e92a058b9bcc19d4c76e2a1bd4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저 하투로, 10년 전부터 병원 신세+귀신 고백..가슴 먹먹한 눈물 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/171860?lang=ko</link>
             <guid>https://yg-life.com/archives/171860?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Mon, 15 Nov 2021 06:43:55 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=박판석 기자] YG 대형 그룹 트레저 도영이 평범한 일상 속 특별한 순간을 글로벌 팬들과 공유했다. YG엔터테인먼트는 15일 공식 SNS에 트레저의 ‘TMI-...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/d8dc7d30380657a1c451897f0d16d566.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘 구준회, “선한 영향력을 주는 사람이 되고 싶어” (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/171106?lang=ko</link>
-            <guid>https://yg-life.com/archives/171106?lang=ko</guid>
-            <pubDate>Mon, 15 Nov 2021 10:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리=송일섭 기자] 아이돌 그룹 아이콘(iKON) 구준회가 색다른 화보를 공개했다. 구준회는 패션 매거진 ‘데이즈드’를 통해 공개한 인터뷰와 화보에서 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/22da019550f057d31b3f4c604a184abc-e1636941000449.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
