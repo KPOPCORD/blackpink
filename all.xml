@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 13:40:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 14:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG 트레저, 신곡 깜짝 스포…춤 연습→편의점 먹방까지 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/171883?lang=ko</link>
+            <guid>https://yg-life.com/archives/171883?lang=ko</guid>
+            <pubDate>Tue, 28 Dec 2021 14:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스타투데이=진향희 기자] 그룹 트레저(TREASURE)가 신곡에 대해 이야기하며 컴백을 기다리는 글로벌 팬들의 기대감을 높였다. 28일 YG엔터테인먼트 공식 SNS을 통해 공개된...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/33e74a144a44e3f52d92dc9d1d296aea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이콘 “2022년은 팬들과 함께할 시간 많아지길” (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/171869?lang=ko</link>
             <guid>https://yg-life.com/archives/171869?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Fri, 19 Nov 2021 01:34:13 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저의 웹드라마 ‘남고괴담’ 두 번째 이야기가 오늘(19일) 밤 10시 공개된다. YG엔터테인먼트는 이를 앞두고 &amp;...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/10ff2e30521a36d2c79fff167d74d98c-e1637285297856.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저 도영, 일상 속 특별한 순간 담은 ‘TMI-LOG’ 공개 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/171117?lang=ko</link>
-            <guid>https://yg-life.com/archives/171117?lang=ko</guid>
-            <pubDate>Mon, 15 Nov 2021 06:43:55 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자] YG 대형 그룹 트레저 도영이 평범한 일상 속 특별한 순간을 글로벌 팬들과 공유했다. YG엔터테인먼트는 15일 공식 SNS에 트레저의 ‘TMI-...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/d8dc7d30380657a1c451897f0d16d566.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
