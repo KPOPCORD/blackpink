@@ -4,9 +4,17 @@
         <title>BLACKPINK ─ To. BLINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 23:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 01:38:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[REPLAY] 12/16 퇴근🤍]]></title>
+            <link>https://www.vlive.tv/post/0-26960771</link>
+            <guid>https://www.vlive.tv/post/0-26960771</guid>
+            <pubDate>Thu, 30 Dec 2021 01:37:55 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211221_205/1640041917097ljbbJ_JPEG/dc647ca4-61e9-11ec-b9f9-505dac8c38f5_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[REPLAY] 12/16 BLACKPINK+'s Broadcast 😴]]></title>
             <link>https://www.vlive.tv/post/1-26968740</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26205224</guid>
             <pubDate>Mon, 08 Nov 2021 11:32:37 GMT</pubDate>
             <content:encoded><![CDATA[11.8.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211116_211/1637038889050LwQ8P_PNG/upload_81118610420202430fd96a9d3-8a86-4639-9fae-b368a7033407.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[REPLAY] 자기 전에 다시 '그 앱' 다운로드한 기념으로 키는 츄디의 라디오]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-22693483</guid>
             <pubDate>Thu, 28 Oct 2021 13:37:51 GMT</pubDate>
             <content:encoded><![CDATA[5.3.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[REPLAY] 리리 and...?]]></title>
-            <link>https://www.vlive.tv/post/0-22256808</link>
-            <guid>https://www.vlive.tv/post/0-22256808</guid>
-            <pubDate>Thu, 28 Oct 2021 13:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[4.27.]]></content:encoded>
         </item>
     </channel>
 </rss>
