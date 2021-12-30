@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 07:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 08:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,7 +298,7 @@
             <link>https://www.vlive.tv/post/0-26960771</link>
             <guid>https://www.vlive.tv/post/0-26960771</guid>
             <pubDate>Thu, 30 Dec 2021 01:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211221_205/1640041917097ljbbJ_JPEG/dc647ca4-61e9-11ec-b9f9-505dac8c38f5_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크 리사 ‘머니’, 스포티파이 3억 스트리밍 돌파 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/171901?lang=ko</link>
+            <guid>https://yg-life.com/archives/171901?lang=ko</guid>
+            <pubDate>Thu, 30 Dec 2021 08:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[[매일경제=이다겸 기자] 블랙핑크 리사의 데뷔 첫 솔로 앨범 수록곡 ‘머니(MONEY)’가 세계 최대 음원 스트리밍 플랫폼인 스포티파이서 또 한 번 신기록을 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/09/50520527dd344f367337598f121a9a89.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, 신곡 깜짝 스포…춤 연습→편의점 먹방까지 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/171883?lang=ko</link>
             <guid>https://yg-life.com/archives/171883?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Fri, 19 Nov 2021 01:34:13 GMT</pubDate>
             <content:encoded><![CDATA[[MK스포츠=김나영 기자] 블랙핑크(BLACKPINK)의 ‘마지막처럼’ 뮤직비디오가 유튜브에서 11억뷰를 돌파했다. 18일 YG엔터테인먼트에 따르면 블랙핑크의 ‘마지막처럼’ 뮤직비...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/5ec9fb413ad632e1b3b619f6b93f6ee4-e1637140879867.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, 소정환 불만 토로→아사히 기묘한 행동..웹드 ‘남고괴담’ 귀신 정체 베일 벗나 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/171157?lang=ko</link>
-            <guid>https://yg-life.com/archives/171157?lang=ko</guid>
-            <pubDate>Fri, 19 Nov 2021 01:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저의 웹드라마 ‘남고괴담’ 두 번째 이야기가 오늘(19일) 밤 10시 공개된다. YG엔터테인먼트는 이를 앞두고 &amp;...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/10ff2e30521a36d2c79fff167d74d98c-e1637285297856.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
