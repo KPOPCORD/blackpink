@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 00:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 02:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트레저, YG 새해 첫 컴백 확정..’커밍순’ 포스터 공개]]></title>
+            <link>https://yg-life.com/archives/171943?lang=ko</link>
+            <guid>https://yg-life.com/archives/171943?lang=ko</guid>
+            <pubDate>Sat, 01 Jan 2022 02:04:34 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] YG엔터테인먼트 소속 그룹 트레저가 새로운 도약을 위한 두 번째 발걸음을 힘차게 내딛는다. 데뷔 첫해 단숨에 ‘글로벌 라이징 스타’로...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/ea8b2e227c5cd7e772776a46fe0bfebe-e1640962090202.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사 ‘머니’, 스포티파이 3억 스트리밍 돌파]]></title>
             <link>https://yg-life.com/archives/171901?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 20 Nov 2021 06:42:43 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=이승훈 기자] 위너 송민호가 한동안 꾹꾹 눌러왔던 힙합 스웨그를 제대로 폭발시키며 글로벌 음악팬들의 심박수를 뛰게 했다. 송민호는 지난 19일 서울 방이동 올림픽홀에서 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/c056af76e9eefc02dd688983dcbc8b1b-e1637390414734.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크, ‘마지막처럼’ MV 11억뷰 돌파…K팝 아티스트 ‘최다’]]></title>
-            <link>https://yg-life.com/archives/171168?lang=ko</link>
-            <guid>https://yg-life.com/archives/171168?lang=ko</guid>
-            <pubDate>Fri, 19 Nov 2021 01:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[[MK스포츠=김나영 기자] 블랙핑크(BLACKPINK)의 ‘마지막처럼’ 뮤직비디오가 유튜브에서 11억뷰를 돌파했다. 18일 YG엔터테인먼트에 따르면 블랙핑크의 ‘마지막처럼’ 뮤직비...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/5ec9fb413ad632e1b3b619f6b93f6ee4-e1637140879867.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
