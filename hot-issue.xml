@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 02:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사 ‘라리사’ MV, 4개월 만에 유튜브 4억뷰 돌파]]></title>
+            <link>https://yg-life.com/archives/171997?lang=ko</link>
+            <guid>https://yg-life.com/archives/171997?lang=ko</guid>
+            <pubDate>Mon, 10 Jan 2022 10:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[[연합뉴스=김예나 기자] 그룹 블랙핑크 리사가 발표한 솔로곡 ‘라리사'(LALISA) 뮤직비디오 유튜브 조회 수가 4억 회를 넘어섰다. 9일 소속사 YG엔터테인먼트에 따...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/d7893c9f3321fb0f398063cef75046f0-e1641700855994.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트레저, YG 새해 첫 컴백 확정..’커밍순’ 포스터 공개]]></title>
             <link>https://yg-life.com/archives/171943?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 20 Nov 2021 07:33:11 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저의 웹드라마 ‘남고괴담’이 심장 쫄깃한 이야기 전개와 탄탄한 구성으로 글로벌 팬들의 눈과 귀를 사로잡고 있다. ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/cf813baf31ddbf11b4a520eb3307acde.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[송민호, 힙합의 진수 보여준 솔로 콘서트 ‘MANIAC’..”모든 걸 불태웠다”]]></title>
-            <link>https://yg-life.com/archives/171196?lang=ko</link>
-            <guid>https://yg-life.com/archives/171196?lang=ko</guid>
-            <pubDate>Sat, 20 Nov 2021 06:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 위너 송민호가 한동안 꾹꾹 눌러왔던 힙합 스웨그를 제대로 폭발시키며 글로벌 음악팬들의 심박수를 뛰게 했다. 송민호는 지난 19일 서울 방이동 올림픽홀에서 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/c056af76e9eefc02dd688983dcbc8b1b-e1637390414734.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
