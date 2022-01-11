@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 13:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 14:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트레저 2월 15일 컴백, 2022 YG 첫 주자 출격에 기대감 UP (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/172030?lang=ko</link>
+            <guid>https://yg-life.com/archives/172030?lang=ko</guid>
+            <pubDate>Tue, 11 Jan 2022 14:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리=곽명동 기자] YG 대형 그룹 트레저가 2월 15일 컴백을 확정한 가운데 이들의 새 앨범 예약 판매가 오늘(11일) 낮 12시부터 시작됐다. 트레저의 [THE SECO...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/b56dc79c041a08af8dbe26da3f48c262.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, 2월 15일 컴백 확정…”활발할 활동 펼칠 것” (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/172020?lang=ko</link>
             <guid>https://yg-life.com/archives/172020?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Mon, 22 Nov 2021 01:34:29 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선=백지은 기자] 그룹 위너 송민호가 솔로컴백한다. YG엔터테인먼트는 22일 공식 블로그에 커밍순 포스터를 공개, 송민호의 솔로 컴백을 알렸다. 송민호의 솔로 컴백은 정규...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/444575d46f9052bc513cdff9ac95895c-e1637500081763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“커플 윙크, 찐 케미”…블랙핑크 제니, 송민호 특급 지원사격 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/171209?lang=ko</link>
-            <guid>https://yg-life.com/archives/171209?lang=ko</guid>
-            <pubDate>Sat, 20 Nov 2021 07:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리=김나라 기자] 그룹 블랙핑크 제니가 소속사 YG엔터테인먼트 선배인 위너 송민호의 첫 솔로 콘서트를 관람했다. 제니는 19일 자신의 인스타그램 스토리에 사진을 올렸다. ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/6467cb82bf337ca07979f35cc3b336f3-e1637390728150.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
