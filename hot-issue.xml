@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 00:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 02:05:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저, 2월 15일 컴백 확정…”활발할 활동 펼칠 것”]]></title>
+            <link>https://yg-life.com/archives/172020?lang=ko</link>
+            <guid>https://yg-life.com/archives/172020?lang=ko</guid>
+            <pubDate>Tue, 11 Jan 2022 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[[엑스포츠뉴스=김노을 기자] 그룹 트레저(TREASURE)가 컴백한다. 트레저가 오는 2월 15일 컴백한다. 새 앨범명은 ‘THE SECOND STEP : CHAPTER...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/b56dc79c041a08af8dbe26da3f48c262.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사 ‘라리사’ MV, 4개월 만에 유튜브 4억뷰 돌파]]></title>
             <link>https://yg-life.com/archives/171997?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 20 Nov 2021 07:33:11 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리=김나라 기자] 그룹 블랙핑크 제니가 소속사 YG엔터테인먼트 선배인 위너 송민호의 첫 솔로 콘서트를 관람했다. 제니는 19일 자신의 인스타그램 스토리에 사진을 올렸다. ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/6467cb82bf337ca07979f35cc3b336f3-e1637390728150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, ‘남고괴담’ 귀신 색출 시작..아사히 섬뜩한 그림에 의문 증폭]]></title>
-            <link>https://yg-life.com/archives/171205?lang=ko</link>
-            <guid>https://yg-life.com/archives/171205?lang=ko</guid>
-            <pubDate>Sat, 20 Nov 2021 07:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저의 웹드라마 ‘남고괴담’이 심장 쫄깃한 이야기 전개와 탄탄한 구성으로 글로벌 팬들의 눈과 귀를 사로잡고 있다. ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/cf813baf31ddbf11b4a520eb3307acde.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
