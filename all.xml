@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 14:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 15:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HAPPY BIRTHDAY JENNIE (BLACKPINK ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-27445637</link>
+            <guid>https://www.vlive.tv/post/0-27445637</guid>
+            <pubDate>Sat, 15 Jan 2022 15:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[13 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20220115_297/1642257812941toxts_JPEG/HBD_JAN_JENNIE_WEB.jpg?type=f144x144" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HAPPY BIRTHDAY JISOO (BLACKPINK ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-27250738</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25581601</guid>
             <pubDate>Thu, 11 Nov 2021 20:36:10 GMT</pubDate>
             <content:encoded><![CDATA[Sep 23, 2021]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210923_189/1632401995996D5s7L_JPEG/1632401219118.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA - ‘MONEY’ EXCLUSIVE PERFORMANCE VIDEO TEASER POSTER (BLACKPINK ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-25209615</guid>
             <pubDate>Thu, 11 Nov 2021 20:36:10 GMT</pubDate>
             <content:encoded><![CDATA[Sep 6, 2021]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LISA - FIRST SINGLE ALBUM LALISA TRACKLIST POSTER (BLACKPINK ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-25202379</link>
-            <guid>https://www.vlive.tv/post/1-25202379</guid>
-            <pubDate>Thu, 11 Nov 2021 20:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[Sep 5, 2021]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LISA - #OUTNOW Unlimited LISA LIVE (BLACKPINK ─ Notice)]]></title>
