@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 03:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 04:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사, 2주 차 가온 소셜차트 TOP2 등극…솔로가수 1위]]></title>
+            <link>https://yg-life.com/archives/172048?lang=ko</link>
+            <guid>https://yg-life.com/archives/172048?lang=ko</guid>
+            <pubDate>Sun, 16 Jan 2022 04:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[[엑스포츠뉴스=이정범 기자] 블랙핑크 리사가 2021년 2주 차 가온 소셜차트 솔로가수 1위에 올랐다. 한국음악콘텐츠협회에서 운영하는 ‘가온차트’는 지난 2일부터 8일까지 진행된 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/08/37be9ce36f0d60fa12298d4d588dc07b-e1629900161316.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트레저 2월 15일 컴백, 2022 YG 첫 주자 출격에 기대감 UP]]></title>
             <link>https://yg-life.com/archives/172030?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 22 Nov 2021 05:33:54 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저 방예담이 소소한 일상 속 아이처럼 순수한 모습으로 팬들에게 미소를 안겼다. YG엔터테인먼트는 22일 공식 SNS에 트레저의 R...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/419116da94b6143aaefe119e71094d2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위너 송민호, 솔로컴백…’테이크’ 이후 1년만 복귀]]></title>
-            <link>https://yg-life.com/archives/171242?lang=ko</link>
-            <guid>https://yg-life.com/archives/171242?lang=ko</guid>
-            <pubDate>Mon, 22 Nov 2021 01:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선=백지은 기자] 그룹 위너 송민호가 솔로컴백한다. YG엔터테인먼트는 22일 공식 블로그에 커밍순 포스터를 공개, 송민호의 솔로 컴백을 알렸다. 송민호의 솔로 컴백은 정규...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/444575d46f9052bc513cdff9ac95895c-e1637500081763.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
