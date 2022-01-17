@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 03:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 04:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저, 새 앨범 콘셉트 포스터 공개…아우라 폭발]]></title>
+            <link>https://yg-life.com/archives/172076?lang=ko</link>
+            <guid>https://yg-life.com/archives/172076?lang=ko</guid>
+            <pubDate>Mon, 17 Jan 2022 04:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[[MK스포츠=김나영 기자] 컴백을 앞둔 YG 대형 그룹 트레저의 새로운 단체 이미지가 처음 공개돼 글로벌 팬들의 관심이 집중되고 있다. YG엔터테인먼트는 17일 0시 공식 블로그에...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/c5824af246d87f961159c105c11bbe3a-e1642341091740.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사, 2주 차 가온 소셜차트 TOP2 등극…솔로가수 1위]]></title>
             <link>https://yg-life.com/archives/172048?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 29 Nov 2021 06:44:07 GMT</pubDate>
             <content:encoded><![CDATA[[매일경제 스타투데이=박세연 기자] 그룹 블랙핑크(BLACKPINK)의 공식 유튜브 채널 구독자 수가&nbsp;7000만 명을 돌파했다. 전 세계 모든 아티스트를 통틀어 최초·최다 기록이다...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2020/12/b847b0ca921a07c00a708678c6425a01-e1606905183275.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저 방예담, ‘소확행’ 가득한 일상 공개..힐링 에너지 ‘듬뿍’]]></title>
-            <link>https://yg-life.com/archives/171251?lang=ko</link>
-            <guid>https://yg-life.com/archives/171251?lang=ko</guid>
-            <pubDate>Mon, 22 Nov 2021 05:33:54 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저 방예담이 소소한 일상 속 아이처럼 순수한 모습으로 팬들에게 미소를 안겼다. YG엔터테인먼트는 22일 공식 SNS에 트레저의 R...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/419116da94b6143aaefe119e71094d2e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
