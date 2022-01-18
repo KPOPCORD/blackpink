@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 00:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 02:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저 최현석·지훈·요시·준규, 개인 포스터 공개]]></title>
+            <link>https://yg-life.com/archives/172123?lang=ko</link>
+            <guid>https://yg-life.com/archives/172123?lang=ko</guid>
+            <pubDate>Tue, 18 Jan 2022 02:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴=정희연 기자]&nbsp; YG 대형 그룹 트레저가 새 앨범 발매를 앞두고 멤버별 개인 포스터를 공개하기 시작, 글로벌 팬들의 눈길을 사로잡았다. YG엔터테인먼트는 18일 공식 블...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/9351862124b1fa84c0b03afef957e06f-e1642428041805.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG 트레저, 새 앨범 콘셉트 포스터 공개…아우라 폭발]]></title>
             <link>https://yg-life.com/archives/172076?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 29 Nov 2021 06:44:07 GMT</pubDate>
             <content:encoded><![CDATA[[MK스포츠=김나영 기자] 블랙핑크 리사가 안무 영상으로 유튜브에서 또 하나의 신기록을 갈아치웠다. 29일 YG엔터테인먼트에 따르면 리사의 솔로곡 ‘MONEY’ 익스클루시브 퍼포먼...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/a2fd0802de45b78474429b452fbaf42b-e1638105823762.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크, 유튜브 구독자 7천만 명 돌파…전세계 아티스트 최초]]></title>
-            <link>https://yg-life.com/archives/171372?lang=ko</link>
-            <guid>https://yg-life.com/archives/171372?lang=ko</guid>
-            <pubDate>Mon, 29 Nov 2021 06:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[[매일경제 스타투데이=박세연 기자] 그룹 블랙핑크(BLACKPINK)의 공식 유튜브 채널 구독자 수가&nbsp;7000만 명을 돌파했다. 전 세계 모든 아티스트를 통틀어 최초·최다 기록이다...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2020/12/b847b0ca921a07c00a708678c6425a01-e1606905183275.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
