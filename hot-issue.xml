@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 03:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 04:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘2월 15일 컴백’ 트레저, 선주문 60만장 돌파…무서운 상승세]]></title>
+            <link>https://yg-life.com/archives/172199?lang=ko</link>
+            <guid>https://yg-life.com/archives/172199?lang=ko</guid>
+            <pubDate>Thu, 20 Jan 2022 12:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[[엑스포츠뉴스=이슬 기자] 그룹 트레저(TREASURE)가 일찌감치 자체 최고 성적을 예고하며 화려한 컴백 신호탄을 쐈다. 20일 YG엔터테인먼트에 따르면 현재 예약 판매 중인 트...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/c5824af246d87f961159c105c11bbe3a-e1642341091740.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG 트레저 최현석·지훈·요시·준규, 개인 포스터 공개]]></title>
             <link>https://yg-life.com/archives/172123?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 06 Dec 2021 10:59:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 위너 멤버 송민호(MINO)가 솔로 컴백을 하루 앞두고 새 앨범에 담긴 전곡 맛보기 음원을 공개, 글로벌 팬들의 눈과 귀를 사로잡았다. YG엔터테인먼...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/3ee48563e116f298a467dac2d378238b-e1638706298200.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사 ‘MONEY’ 안무 영상 3억뷰 돌파…또 ‘최단 신기록’]]></title>
-            <link>https://yg-life.com/archives/171375?lang=ko</link>
-            <guid>https://yg-life.com/archives/171375?lang=ko</guid>
-            <pubDate>Mon, 29 Nov 2021 06:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[[MK스포츠=김나영 기자] 블랙핑크 리사가 안무 영상으로 유튜브에서 또 하나의 신기록을 갈아치웠다. 29일 YG엔터테인먼트에 따르면 리사의 솔로곡 ‘MONEY’ 익스클루시브 퍼포먼...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/a2fd0802de45b78474429b452fbaf42b-e1638105823762.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
