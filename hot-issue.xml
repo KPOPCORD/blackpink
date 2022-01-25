@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 11:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 12:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 트레저, 타이틀곡은 ‘직진’…”칼군무 기대해도 좋다”]]></title>
+            <link>https://yg-life.com/archives/172361?lang=ko</link>
+            <guid>https://yg-life.com/archives/172361?lang=ko</guid>
+            <pubDate>Tue, 25 Jan 2022 12:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리=박윤진 기자] 그룹 트레저의 새 앨범 타이틀곡 제목은 ‘직진(JIKJIN)’이라고 소속사 YG엔터테인먼트가 25일 밝혔다. 제목 외 구체적인 정보...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/0ec858a4d5425e8c3ad185b5fdcf7cb3-e1643033859680.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘2022 YG 첫 주자’ 트레저, 최현석·지훈·요시·준규 콘셉트 필름 공개]]></title>
             <link>https://yg-life.com/archives/172279?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 09 Dec 2021 11:32:52 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=이승훈 기자] 블랙핑크 리사의 첫 솔로 싱글 앨범 ‘LALISA’ 포토북 스페셜 에디션 예약 판매가 오늘(8일) 오전 11시부터 시작됐다. LISA...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/08/37be9ce36f0d60fa12298d4d588dc07b-e1629900161316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, ‘BOY’ MV 1억뷰 돌파..데뷔 후 첫 기록]]></title>
-            <link>https://yg-life.com/archives/171617?lang=ko</link>
-            <guid>https://yg-life.com/archives/171617?lang=ko</guid>
-            <pubDate>Thu, 09 Dec 2021 11:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저(TREASURE)의 ‘BOY’ 뮤직비디오가 유튜브에서 1억뷰를 돌파했다. 9일 YG엔터테인먼트에 따르면 트레저...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/ab3b2d9ee9d2ee483177487cb0bbee5d-e1639008420791.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
