@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 23:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 00:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, ‘Kill This Love’ MV 15억뷰 돌파..2번째 대기록]]></title>
+            <link>https://yg-life.com/archives/172378?lang=ko</link>
+            <guid>https://yg-life.com/archives/172378?lang=ko</guid>
+            <pubDate>Wed, 26 Jan 2022 08:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 블랙핑크의 ‘Kill This Love’ 뮤직비디오가 유튜브에서 15억뷰를 돌파했다. 26일 YG엔터테인먼트에 따르면 블랙핑크의 ‘Kill This Lov...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/2b416c603e6d1f99d62741d403472a96-e1643072828607.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG 트레저, 타이틀곡은 ‘직진’…”칼군무 기대해도 좋다”]]></title>
             <link>https://yg-life.com/archives/172361?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 13 Dec 2021 08:41:28 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스=윤상근 기자] 걸그룹 블랙핑크(BLACKPINK)의 ‘Forever Young’ 안무 영상이 유튜브에서 2억뷰를 돌파했다. 13일 YG엔터테인먼트에...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/0136e006593697b87e8af40a767f2d5d-e1639357634548.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, 이미지 직접 골랐다..’LALISA’ 스페셜 포토북 예판 오픈]]></title>
-            <link>https://yg-life.com/archives/171625?lang=ko</link>
-            <guid>https://yg-life.com/archives/171625?lang=ko</guid>
-            <pubDate>Thu, 09 Dec 2021 11:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 블랙핑크 리사의 첫 솔로 싱글 앨범 ‘LALISA’ 포토북 스페셜 에디션 예약 판매가 오늘(8일) 오전 11시부터 시작됐다. LISA...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/08/37be9ce36f0d60fa12298d4d588dc07b-e1629900161316.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
