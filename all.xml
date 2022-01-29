@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 01:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 02:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG 트레저, 거침없는 직진 고백 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/172511?lang=ko</link>
+            <guid>https://yg-life.com/archives/172511?lang=ko</guid>
+            <pubDate>Sat, 29 Jan 2022 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향=김하영 기자] YG 그룹 트레저의 ‘직진’ 고백이 연일 이어지며 글로벌 팬들의 설렘 지수가 한껏 치솟았다. YG엔터테인먼트는 28일 공식 블로그에 트레저 방예담·아사히...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/878607ff855320ede31c25bed3199e6b-e1643294392671.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, 타이틀곡 ‘직진’ 비주얼 필름 최초 공개..강렬 힙합 사운드 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/172391?lang=ko</link>
             <guid>https://yg-life.com/archives/172391?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Tue, 14 Dec 2021 04:47:37 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=유정민 기자] YG 대형 그룹 트레저(TREASURE) 윤재혁이 자작곡 일부를 깜짝 공개해 글로벌 팬들의 눈과 귀를 사로잡았다. 14일 YG엔터테인먼트 공식 SNS에 게...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/ba5c05232439126d8cb9bca0d5ee469d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크, ‘스테이’ MV 3억뷰…유튜브 누적 조회수 215억회 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/171683?lang=ko</link>
-            <guid>https://yg-life.com/archives/171683?lang=ko</guid>
-            <pubDate>Mon, 13 Dec 2021 08:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제=고승희 기자] 그룹 블랙핑크(BLACKPINK)가 통산 16번째 3억뷰 뮤직비디오를 갖게 됐다. 이번엔 ‘스테이(STAY)’ 뮤직비디오가 유튜브에서 3억뷰를 넘었다. ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/c7129d470d5465ed9f92fd9c0005b8f6-e1639262488999.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
