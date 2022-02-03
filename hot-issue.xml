@@ -4,9 +4,25 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 00:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 01:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트레저, 이번엔 ‘직진’이다..완전체 티저 영상 오픈→YG “역대급 퍼포먼스 준비”]]></title>
+            <link>https://yg-life.com/archives/172672?lang=ko</link>
+            <guid>https://yg-life.com/archives/172672?lang=ko</guid>
+            <pubDate>Thu, 03 Feb 2022 01:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저의 타이틀곡 ‘직진 (JIKJIN)’ 콘셉트를 직관적으로 보여주는 포커스 필름(FOCUS FILM)이 2일 공개...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/3d6c63264ca31d6bad56cc9249a28933.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“최고기록!” 블랙핑크 ‘뚜두뚜두’ 뮤비 18억뷰]]></title>
+            <link>https://yg-life.com/archives/172666?lang=ko</link>
+            <guid>https://yg-life.com/archives/172666?lang=ko</guid>
+            <pubDate>Thu, 03 Feb 2022 01:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[[KBS미디어=박재환 기자] 블랙핑크의 ‘뚜두뚜두 (DDU-DU DDU-DU)’ 뮤직비디오가 유튜브에서 18억뷰를 돌파했다. K팝 그룹 뮤직비디오 최초이자 최...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/7ea30e6d62ab131ff44ef0887d548c33-e1643682784781.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“너에게 직진”..YG 트레저, 준규·마시호·윤재혁·소정환 비주얼 필름→멜로디 최초 공개]]></title>
             <link>https://yg-life.com/archives/172552?lang=ko</link>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 16 Dec 2021 11:52:00 GMT</pubDate>
             <content:encoded><![CDATA[[세계일보=김형환 기자] 그룹 블랙핑크 리사가 영국 국제 여론조사기관이 선정한 세계에서 가장 존경받는 여성 20명 안에 뽑혔다. 영국의 국제 여론조사기관 유고브는 14일(현지시간)...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/e675159b2c7561628c13771d57c1b42b-e1639623118192.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크, 위버스 글로벌 멤버십 오픈..상시 모집 형태로 변경]]></title>
-            <link>https://yg-life.com/archives/171740?lang=ko</link>
-            <guid>https://yg-life.com/archives/171740?lang=ko</guid>
-            <pubDate>Thu, 16 Dec 2021 11:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 블랙핑크의 팬클럽이 기수제 모집 형태에서 벗어나 언제든 가입이 가능하고 특별한 혜택도 받을 수 있는 방식으로 변경된다. YG엔터테인먼트는 블랙핑크의 글로벌...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/57f2ad53cd71afee3cd8004287ed70c4-e1639622952295.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저 웹드라마 ‘남고괴담’, 한달 만에 1000만뷰 돌파..글로벌 영향력]]></title>
-            <link>https://yg-life.com/archives/171712?lang=ko</link>
-            <guid>https://yg-life.com/archives/171712?lang=ko</guid>
-            <pubDate>Tue, 14 Dec 2021 04:47:37 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저의 웹드라마 ‘남고괴담’이 글로벌 팬들의 호평 속 누적 조회수 1000만뷰를 돌파했다. 지난 11월 12일 첫화...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/11/7068146318dbce39228a347a3485bab8-e1635817204162.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
