@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 02:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘컴백’ 트레저, 새 앨범 트랙리스트 공개..멤버 참여도 UP]]></title>
+            <link>https://yg-life.com/archives/172678?lang=ko</link>
+            <guid>https://yg-life.com/archives/172678?lang=ko</guid>
+            <pubDate>Thu, 03 Feb 2022 10:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] YG엔터테인먼트 소속 그룹 트레저의 새 앨범 트랙리스트가 3일 공개됐다. YG엔터테인먼트에 따르면 오는 15일 발표되는 트레저의 ‘THE SEC...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/f167af147cf0a75488c2fa83cdc3ac71-e1643812398785.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트레저, 이번엔 ‘직진’이다..완전체 티저 영상 오픈→YG “역대급 퍼포먼스 준비”]]></title>
             <link>https://yg-life.com/archives/172672?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 21 Dec 2021 12:33:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=신지원 기자] YG 대형 그룹 트레저(TREASURE) 멤버 마시호가 이색 체험으로 가득했던 스페셜한 하루를 공개했다. 21일 YG엔터테인먼트 공식 SNS에 게재된 트레...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/df54b0a25d28285dc4ba43e902fd8851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사, 英 기관 선정 세계서 존경받는 여성 ‘톱20’]]></title>
-            <link>https://yg-life.com/archives/171748?lang=ko</link>
-            <guid>https://yg-life.com/archives/171748?lang=ko</guid>
-            <pubDate>Thu, 16 Dec 2021 11:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[[세계일보=김형환 기자] 그룹 블랙핑크 리사가 영국 국제 여론조사기관이 선정한 세계에서 가장 존경받는 여성 20명 안에 뽑혔다. 영국의 국제 여론조사기관 유고브는 14일(현지시간)...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/e675159b2c7561628c13771d57c1b42b-e1639623118192.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
