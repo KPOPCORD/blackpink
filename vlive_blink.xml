@@ -4,9 +4,17 @@
         <title>BLACKPINK ─ To. BLINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 12:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 13:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나랑 놀 사람🙋🏻‍♀️]]></title>
+            <link>https://www.vlive.tv/post/1-27796320</link>
+            <guid>https://www.vlive.tv/post/1-27796320</guid>
+            <pubDate>Sun, 06 Feb 2022 13:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276466/thumb?type=f640_362" length="0" type="image//live/276466/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[REPLAY] 12/16 퇴근🤍]]></title>
             <link>https://www.vlive.tv/post/0-26960771</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26823375</guid>
             <pubDate>Thu, 27 Jan 2022 08:15:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.8.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211207_54/1638878281356GSJ3J_JPEG/a7011d5f-5754-11ec-9a6e-246e963a49a8_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[REPLAY] 아직 있는 브이앱✌🏻]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-22700691</guid>
             <pubDate>Thu, 27 Jan 2022 08:15:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.5.4.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[5월이 왔습니다아 🐰]]></title>
-            <link>https://www.vlive.tv/post/1-22693483</link>
-            <guid>https://www.vlive.tv/post/1-22693483</guid>
-            <pubDate>Thu, 27 Jan 2022 08:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.5.3.]]></content:encoded>
         </item>
     </channel>
 </rss>
