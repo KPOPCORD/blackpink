@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 02:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 03:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,7 +298,7 @@
             <link>https://www.vlive.tv/post/1-27607428</link>
             <guid>https://www.vlive.tv/post/1-27607428</guid>
             <pubDate>Wed, 09 Feb 2022 02:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220126_284/1643190196786vDSXB_JPEG/1c65a507-7e8b-11ec-bba8-a0369ff968b0_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -306,7 +306,7 @@
             <link>https://www.vlive.tv/post/1-27796320</link>
             <guid>https://www.vlive.tv/post/1-27796320</guid>
             <pubDate>Tue, 08 Feb 2022 09:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220208_299/1644273283220qDLvz_JPEG/165ae51d-8866-11ec-b3d2-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG, 바이낸스 손 잡았다..NFT 사업 진출 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/172766?lang=ko</link>
+            <guid>https://yg-life.com/archives/172766?lang=ko</guid>
+            <pubDate>Wed, 09 Feb 2022 11:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 엔터테인먼트가 세계 최대 가상자산 거래소이자 블록체인 인프라 공급자인 바이낸스와 손을 잡고 NFT를 포함한 신규 사업 분야로 진출한다. YG엔터테인먼...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/9e1f3333261715da812f6e9c1da0510c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[빅뱅, 4년만에 완전체 컴백 확정…YG “탑 계약 종료” (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/172715?lang=ko</link>
             <guid>https://yg-life.com/archives/172715?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Sat, 05 Feb 2022 05:10:50 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스=공미나 기자] 그룹 아이콘(iKON)이 마음 따뜻해지는 크리스마스 파티를 통해 글로벌 팬들과 소통하며 즐거운 시간을 보냈다. 소속사 YG엔터테인먼트가 25일, 26일 공...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/d1ab75e92a058b9bcc19d4c76e2a1bd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저 하투로, 10년 전부터 병원 신세+귀신 고백..가슴 먹먹한 눈물 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/171860?lang=ko</link>
-            <guid>https://yg-life.com/archives/171860?lang=ko</guid>
-            <pubDate>Sat, 05 Feb 2022 05:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 트레저의 웹드라마 ‘남고괴담’ 극 중 인물간 갈등이 최고조에 달해 마지막까지 손에 땀을 쥐게 하는 긴장감을 선사하고 있다. 지난 24...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/c2531255a0436441551d2f04123956e4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
