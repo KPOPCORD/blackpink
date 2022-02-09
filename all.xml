@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 00:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,19 @@
             <content:encoded><![CDATA[Sep 23, 2020]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[REPLAY] 온리 블링크 (BLACKPINK ─ To. BLINK)]]></title>
+            <link>https://www.vlive.tv/post/1-27607428</link>
+            <guid>https://www.vlive.tv/post/1-27607428</guid>
+            <pubDate>Wed, 09 Feb 2022 02:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220126_284/1643190196786vDSXB_JPEG/1c65a507-7e8b-11ec-bba8-a0369ff968b0_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[REPLAY] 나랑 놀 사람🙋🏻‍♀️ (BLACKPINK ─ To. BLINK)]]></title>
             <link>https://www.vlive.tv/post/1-27796320</link>
             <guid>https://www.vlive.tv/post/1-27796320</guid>
             <pubDate>Tue, 08 Feb 2022 09:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220208_299/1644273283220qDLvz_JPEG/165ae51d-8866-11ec-b3d2-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -315,7 +323,6 @@
             <guid>https://www.vlive.tv/post/1-26968740</guid>
             <pubDate>Thu, 27 Jan 2022 08:15:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.21.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211221_114/1640041921825CUtwu_JPEG/1bcddb45-61ea-11ec-a25c-505dac8c37f3_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[REPLAY] 아직도 있는 쁘이앱✌🏻 (BLACKPINK ─ To. BLINK)]]></title>
@@ -428,13 +435,6 @@
             <guid>https://www.vlive.tv/post/0-22932230</guid>
             <pubDate>Thu, 27 Jan 2022 08:15:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.5.17.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내일은 어린이날 (BLACKPINK ─ To. BLINK)]]></title>
-            <link>https://www.vlive.tv/post/0-22700691</link>
-            <guid>https://www.vlive.tv/post/0-22700691</guid>
-            <pubDate>Thu, 27 Jan 2022 08:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.5.4.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ROSÉ ‘Gone’ MV 배경화면 (Exclusive ver.) (BLACKPINK ─ Contents)]]></title>
