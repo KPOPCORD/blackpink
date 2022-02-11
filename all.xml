@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 08:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 09:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://www.vlive.tv/post/0-27855048</link>
             <guid>https://www.vlive.tv/post/0-27855048</guid>
             <pubDate>Fri, 11 Feb 2022 02:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[17 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[18 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net//20220210_115/1644477528712KCVh2_JPEG/HBD_ROS__web.jpg?type=f144x144" length="0" type="image/jpg"/>
         </item>
         <item>
