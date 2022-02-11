@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 15:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 16:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG, 트레저 신곡 MV에 제작비 5억원 투입…“블랙핑크 급 지원”]]></title>
+            <link>https://yg-life.com/archives/172793?lang=ko</link>
+            <guid>https://yg-life.com/archives/172793?lang=ko</guid>
+            <pubDate>Fri, 11 Feb 2022 16:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제=고승희 기자] YG엔터테인먼트가 소속 그룹 트레저의 신곡 뮤직비디오에 역대급 제작비를 투입, 적극적인 지원을 아끼지 않고 있다. YG엔터테인먼트는 컴백을 앞둔 그룹 트...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/0ec858a4d5425e8c3ad185b5fdcf7cb3-e1643033859680.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG, 바이낸스 손 잡았다..NFT 사업 진출]]></title>
             <link>https://yg-life.com/archives/172766?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 05 Feb 2022 05:10:50 GMT</pubDate>
             <content:encoded><![CDATA[[스타투데이=진향희 기자] 그룹 트레저(TREASURE)가 신곡에 대해 이야기하며 컴백을 기다리는 글로벌 팬들의 기대감을 높였다. 28일 YG엔터테인먼트 공식 SNS을 통해 공개된...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/33e74a144a44e3f52d92dc9d1d296aea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘 “2022년은 팬들과 함께할 시간 많아지길”]]></title>
-            <link>https://yg-life.com/archives/171869?lang=ko</link>
-            <guid>https://yg-life.com/archives/171869?lang=ko</guid>
-            <pubDate>Sat, 05 Feb 2022 05:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스=공미나 기자] 그룹 아이콘(iKON)이 마음 따뜻해지는 크리스마스 파티를 통해 글로벌 팬들과 소통하며 즐거운 시간을 보냈다. 소속사 YG엔터테인먼트가 25일, 26일 공...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2021/12/d1ab75e92a058b9bcc19d4c76e2a1bd4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
