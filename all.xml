@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 02:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 03:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG 트레저, 첫 미니앨범 70만장↑ 판매…자체 최고 경신 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173134?lang=ko</link>
+            <guid>https://yg-life.com/archives/173134?lang=ko</guid>
+            <pubDate>Sat, 19 Feb 2022 11:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스1=정유진 기자] YG 보이그룹 트레저(TREASURE)가 컴백과 동시에 연일 자체 최고 기록을 내고 있다. 19일 YG엔터테인먼트에 따르면 트레저의 첫 미니앨범 ‘...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/b2b29baa0676863b8a25a7ff81ef4d40-e1645082945130.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위너, 4월30일·5월1일 올림픽홀 콘서트 개최 ‘2년만 완전체 컴백’ (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173107?lang=ko</link>
             <guid>https://yg-life.com/archives/173107?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Sat, 05 Feb 2022 05:10:50 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리=강다윤 기자] 그룹 트레저가 신곡 멜로디 일부와 노랫말이 담긴 영상을 전격 공개했다. YG엔터테인먼트는 21일 공식 블로그에 트레저 최현석·지훈·요시·준규의 개인 콘셉...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/4148f4ba28112b7517d796ce7b36a226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, 신곡 멜로디 깜짝 스포에 글로벌 반응 ‘후끈’..궁금증 UP (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/172274?lang=ko</link>
-            <guid>https://yg-life.com/archives/172274?lang=ko</guid>
-            <pubDate>Sat, 05 Feb 2022 05:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저가 새 앨범 수록곡 멜로디와 노랫말 일부를 연일 공개하며 컴백 열기를 한껏 끌어올렸다. YG엔터테인먼트는 22일 공식 블로그에 트레저...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/0e70f83caab854f0c32beea81a8b660d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
