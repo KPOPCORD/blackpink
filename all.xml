@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 01:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트레저, 첫 밀리언셀러 도전..연일 자체 최고 기록 경신 중 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173191?lang=ko</link>
+            <guid>https://yg-life.com/archives/173191?lang=ko</guid>
+            <pubDate>Tue, 22 Feb 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 트레저의 첫 번째 미니앨범 ‘THE SECOND STEP : CHAPTER ONE’ 초동 판매량(22일 한터차트 집계 기준)이 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/c6ea17c8161476bd40ce09b9eca65e94-e1644849677266.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, 음반 판매량 한터 주간 차트 1위..70만장 돌파 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173177?lang=ko</link>
             <guid>https://yg-life.com/archives/173177?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Sat, 05 Feb 2022 05:10:50 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=이승훈 기자] 트레저의 새 앨범 타이틀곡 ‘직진 (JIKJIN)’ 멜로디 일부가 최초 공개돼 글로벌 팬들의 폭발적인 호응을 얻고 있다. 앞서 핵심 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/8cc8e45a982816b58082de80289d6f2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, 거침없는 직진 고백 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/172511?lang=ko</link>
-            <guid>https://yg-life.com/archives/172511?lang=ko</guid>
-            <pubDate>Sat, 05 Feb 2022 05:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향=김하영 기자] YG 그룹 트레저의 ‘직진’ 고백이 연일 이어지며 글로벌 팬들의 설렘 지수가 한껏 치솟았다. YG엔터테인먼트는 28일 공식 블로그에 트레저 방예담·아사히...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/878607ff855320ede31c25bed3199e6b-e1643294392671.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
