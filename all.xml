@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 09:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 10:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG 트레저, ‘쇼챔’ 1위→’엠카’ 출격..음방 첫 무대 ‘직진’+’U’ 예고 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173268?lang=ko</link>
+            <guid>https://yg-life.com/archives/173268?lang=ko</guid>
+            <pubDate>Thu, 24 Feb 2022 10:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저가 음악방송 첫 무대를 Mnet ‘엠카운트다운’으로 결정, ‘직진’ 인기에 박차를 가한다....]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/c5824af246d87f961159c105c11bbe3a-e1642341091740.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트레저 콘서트 ‘트레이스(TRACE)’ 관람권 일반 예매 시작 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173261?lang=ko</link>
+            <guid>https://yg-life.com/archives/173261?lang=ko</guid>
+            <pubDate>Thu, 24 Feb 2022 10:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[[YTN=곽현수 기자] 트레저의 콘서트 ‘트레이스(TRACE)’ 오프라인 관람권 일반 예매가 오늘(24일) 오후 8시부터 옥션 티켓에서 시작된다. 컴백과 동시...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/33a941cc4f6a0ad4e21bcf669c5eb739.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트레저, 日 최대 음원 사이트 라인뮤직 주간 차트 1위 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173246?lang=ko</link>
             <guid>https://yg-life.com/archives/173246?lang=ko</guid>
@@ -848,22 +864,6 @@
             <pubDate>Wed, 09 Feb 2022 11:47:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=지민경 기자] YG 엔터테인먼트가 세계 최대 가상자산 거래소이자 블록체인 인프라 공급자인 바이낸스와 손을 잡고 NFT를 포함한 신규 사업 분야로 진출한다. YG엔터테인먼...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/9e1f3333261715da812f6e9c1da0510c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅뱅, 4년만에 완전체 컴백 확정…YG “탑 계약 종료” (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/172715?lang=ko</link>
-            <guid>https://yg-life.com/archives/172715?lang=ko</guid>
-            <pubDate>Mon, 07 Feb 2022 10:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스1=황미현 기자] 그룹 빅뱅(지드래곤 태양 탑 대성)이 4년 만에 완전체로 컴백한다. YG엔터테인먼트는 7일 “빅뱅이 올 봄 신곡을 발표할 예정”이라고 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/d0ee2dd546c4badf090ceecd9c86908b-e1644198697196.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, META와 파트너십 체결…글로벌 도약 발판 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/172697?lang=ko</link>
-            <guid>https://yg-life.com/archives/172697?lang=ko</guid>
-            <pubDate>Sat, 05 Feb 2022 05:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스=이덕행 기자] YG 대형 그룹 트레저(TREASURE)가 페이스북, 인스타그램 등을 운영 중인 소셜미디어 플랫폼 기업 META(메타)와 손을 잡고 전 세계 음악 팬들에 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/c5824af246d87f961159c105c11bbe3a-e1642341091740.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
