@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 02:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 03:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트레저, 열정 가득 ‘직진(JIKJIN)’ 안무 연습 현장 공개 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173353?lang=ko</link>
+            <guid>https://yg-life.com/archives/173353?lang=ko</guid>
+            <pubDate>Tue, 01 Mar 2022 11:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[[MBN=안하나 기자] 그룹 트레저의 열정과 구슬땀이 담긴 ‘직진 (JIKJIN)’ 안무 연습 현장이 공개됐다. YG엔터테인먼트는 3월 1일 공식 SNS에 트레저의 자체 제작 콘텐...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/09de91825df91c5bce8382c823d6f767.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, ‘뮤뱅’ 1위로 음방 2관왕→금빛 질주 시작..27일 ‘인기가요’ 출격 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173302?lang=ko</link>
             <guid>https://yg-life.com/archives/173302?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Sun, 13 Feb 2022 09:57:00 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향=안병길 기자] 블랙핑크의 ‘Ice Cream’ 뮤직비디오가 유튜브에서 7억뷰를 돌파했다. 13일 YG엔터테인먼트에 따르면 블랙핑크의 ‘Ice Cream’ 뮤직비디오는 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/5addcd2da92b153879c376bac1ada7c6-e1644682441450.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG, 트레저 신곡 MV에 제작비 5억원 투입…“블랙핑크 급 지원” (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/172793?lang=ko</link>
-            <guid>https://yg-life.com/archives/172793?lang=ko</guid>
-            <pubDate>Fri, 11 Feb 2022 16:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제=고승희 기자] YG엔터테인먼트가 소속 그룹 트레저의 신곡 뮤직비디오에 역대급 제작비를 투입, 적극적인 지원을 아끼지 않고 있다. YG엔터테인먼트는 컴백을 앞둔 그룹 트...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/0ec858a4d5425e8c3ad185b5fdcf7cb3-e1643033859680.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
