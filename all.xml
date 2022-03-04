@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 23:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 00:56:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[강승윤, 14일 ‘BORN TO LOVE YOU’ 발매…트레저 방예담 작사·작곡 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173402?lang=ko</link>
+            <guid>https://yg-life.com/archives/173402?lang=ko</guid>
+            <pubDate>Fri, 04 Mar 2022 08:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[[엑스포츠뉴스=이슬 기자] 위너 강승윤이 신곡 ‘BORN TO LOVE YOU’로 1년 만에 컴백한다. 강승윤의 솔로 신곡 제목은 ‘BORN TO ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/c3687f7f5bc0e14be2976721a23426dd-e1646314207943.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트레저, 글로벌 무대로 ‘직진’…美 빌보드 진입·MV 5000만뷰 돌파 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173372?lang=ko</link>
             <guid>https://yg-life.com/archives/173372?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Tue, 15 Feb 2022 12:43:00 GMT</pubDate>
             <content:encoded><![CDATA[[엑스포츠뉴스=김예나 기자] 그룹 트레저가 약 1년 만에 컴백한다. 트레저는 15일 오후 6시 새 앨범 ‘더 세컨드 스텝 : 챕터 원(THE SECOND STEP : C...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/c6ea17c8161476bd40ce09b9eca65e94-e1644849677266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저 “올해 YG 첫 주자, 부담·걱정 있었다” (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/172988?lang=ko</link>
-            <guid>https://yg-life.com/archives/172988?lang=ko</guid>
-            <pubDate>Tue, 15 Feb 2022 12:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[[박세연=스타투데이 기자] 그룹 트레저가 올해 YG엔터테인먼트 첫 주자로 나선 소감을 전했다.ㅅ 15일 오전 10시 트레저 첫 미니앨범 ‘더 세컨드 스텝:챕터 원'(TH...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/7b525935bf7dacb178943247f4ac7218-e1644896478881.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
