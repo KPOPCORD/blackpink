@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 00:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 02:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬이 먼저…강승윤, 컴백 1시간 전 라이브 켠다]]></title>
+            <link>https://yg-life.com/archives/173489?lang=ko</link>
+            <guid>https://yg-life.com/archives/173489?lang=ko</guid>
+            <pubDate>Wed, 09 Mar 2022 10:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠월드=김재원 기자] 위너 강승윤이 팬들을 1시간 먼저 만난다. YG엔터테인먼트에 따르면 강승윤은 오는 14일 오후 5시부터 위너 공식 유튜브 채널을 통해 디지털 싱글 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/c6c77c565dc96c4c6a8936f0d8c3f738-e1646721944998.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트레저, 日 오리콘 주간 앨범 차트 1위]]></title>
             <link>https://yg-life.com/archives/173468?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 18 Feb 2022 06:16:33 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스=공미나 기자] 그룹 트레저가 신곡 ‘직진’으로 연일 자체 최단·최고 기록을 연이어 써내려가고 있다. 18일 소속사 YG엔터테인먼트에 따르면 트레저의...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/f0cc6f2f3979ce844ec55b2293204e3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이마트24, YG엔터 트레저와 손잡다…햄버거·삼각김밥 출시]]></title>
-            <link>https://yg-life.com/archives/173095?lang=ko</link>
-            <guid>https://yg-life.com/archives/173095?lang=ko</guid>
-            <pubDate>Fri, 18 Feb 2022 04:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[[한국경제TV=신선미 기자] 이마트24가&nbsp;YG엔터테인먼트 그룹 트레저(TREASURE)와 손잡았다. 이마트24는 컴백 시기에 맞춰 트레저와 함께 다양한 상품을 출시함으로써&nbsp;MZ세대...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/cd5a5e8afcef2c701ee4b9712744963a-e1645157302671.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
