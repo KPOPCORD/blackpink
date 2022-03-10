@@ -4,9 +4,25 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 05:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 06:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG엔터, 산불피해 이재민 위해 5억원 기부]]></title>
+            <link>https://yg-life.com/archives/173503?lang=ko</link>
+            <guid>https://yg-life.com/archives/173503?lang=ko</guid>
+            <pubDate>Thu, 10 Mar 2022 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴시스=이재훈 기자] 그룹 ‘빅뱅’과 ‘블랙핑크’ 소속사 YG엔터테인먼트가 경북 울진·강원 삼척 등지에서 발생한 산불 피해 이재민들을 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/fa8cfb05972426883c15d1ca78ab686f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[YG 트레저, 가온 2월 월간 차트 ‘2관왕’..연일 자체 최고 성적]]></title>
+            <link>https://yg-life.com/archives/173497?lang=ko</link>
+            <guid>https://yg-life.com/archives/173497?lang=ko</guid>
+            <pubDate>Thu, 10 Mar 2022 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저(TREASURE)가 2월 가온차트 결산에서 2관왕에 올랐다. 한국음악콘텐츠협회에서 운영하는 가온차트에 따르면 트레저의 ‘...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/6cabac56394a6413ae96ca2a996ada6b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬이 먼저…강승윤, 컴백 1시간 전 라이브 켠다]]></title>
             <link>https://yg-life.com/archives/173489?lang=ko</link>
@@ -182,22 +198,6 @@
             <pubDate>Sat, 19 Feb 2022 11:45:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스1=정유진 기자] YG 보이그룹 트레저(TREASURE)가 컴백과 동시에 연일 자체 최고 기록을 내고 있다. 19일 YG엔터테인먼트에 따르면 트레저의 첫 미니앨범 ‘...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/b2b29baa0676863b8a25a7ff81ef4d40-e1645082945130.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위너, 4월30일·5월1일 올림픽홀 콘서트 개최 ‘2년만 완전체 컴백’]]></title>
-            <link>https://yg-life.com/archives/173107?lang=ko</link>
-            <guid>https://yg-life.com/archives/173107?lang=ko</guid>
-            <pubDate>Fri, 18 Feb 2022 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔=황혜진 기자] 그룹 위너(강승윤, 김진우, 송민호, 이승훈)가 서울 콘서트 일정을 확정하고 4인 완전체 활동을 본격적으로 재개한다. 2월 18일 소속사 YG엔터테인먼트에 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/7d6da5471255800d2eb6b23fb9455920-e1645152991310.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, ‘직진’ MV 2일만 2000만뷰..자체 최단]]></title>
-            <link>https://yg-life.com/archives/173104?lang=ko</link>
-            <guid>https://yg-life.com/archives/173104?lang=ko</guid>
-            <pubDate>Fri, 18 Feb 2022 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스=공미나 기자] 그룹 트레저가 신곡 ‘직진’으로 연일 자체 최단·최고 기록을 연이어 써내려가고 있다. 18일 소속사 YG엔터테인먼트에 따르면 트레저의...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/f0cc6f2f3979ce844ec55b2293204e3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
