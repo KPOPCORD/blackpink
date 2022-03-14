@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 08:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 09:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG 트레저, ‘일본 골든디스크 대상’서 첫 수상 ‘영예’ (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173629?lang=ko</link>
+            <guid>https://yg-life.com/archives/173629?lang=ko</guid>
+            <pubDate>Mon, 14 Mar 2022 09:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저 (TREASURE)가 일본 골든 디스크 대상서 첫 수상의 영광을 안았다. 트레저는 14일 발표된 제36회 일본 골든디스크 대상 수상...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/b2b29baa0676863b8a25a7ff81ef4d40-e1645082945130.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘컴백’ 강승윤 “‘보컬리스트’라는 한 마디만 들어도 만족해요” (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173609?lang=ko</link>
             <guid>https://yg-life.com/archives/173609?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Mon, 21 Feb 2022 07:13:05 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저(TREASURE)가 전 세계 온·오프라인 판매량을 집계하는 한터차트 1위로 ‘직진’했다. 21일 한터차트에 따...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/b2b29baa0676863b8a25a7ff81ef4d40-e1645082945130.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저 ‘직진’ 뮤비, 5일 만에 3000만뷰 돌파 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173171?lang=ko</link>
-            <guid>https://yg-life.com/archives/173171?lang=ko</guid>
-            <pubDate>Mon, 21 Feb 2022 06:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴=이슬비 기자] YG 보이그룹 트레저(TREASURE)가 무섭게 ‘직진’ 중이다. 21일 YG엔터테인먼트에 따르면 트레저의 타이틀곡 ‘직진...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/f0cc6f2f3979ce844ec55b2293204e3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
