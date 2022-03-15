@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 07:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 08:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“강승윤이 곧 장르”..강승윤 ‘BORN TO LOVE YOU’, 아이튠즈 9개국 1위 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173668?lang=ko</link>
+            <guid>https://yg-life.com/archives/173668?lang=ko</guid>
+            <pubDate>Tue, 15 Mar 2022 08:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 위너 강승윤이 솔로 신곡 ‘BORN TO LOVE YOU’로 음악팬들의 마음을 촉촉히 적시며 명품 보컬리스트로서 진가를 다시 한번 증...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/379e91521abc437eb4dd4a189d227847-e1647177328690.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YG 트레저 수록곡 ‘다라리’, 예사롭지 않은 인기 확산세 ‘주목’ (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173660?lang=ko</link>
+            <guid>https://yg-life.com/archives/173660?lang=ko</guid>
+            <pubDate>Tue, 15 Mar 2022 08:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자] YG엔터테인먼트 대형 그룹 트레저(TREASURE)의 첫 미니앨범 수록곡 ‘다라리 (DARARI)’의 글로벌 인기 확산세가 예사롭...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/c5824af246d87f961159c105c11bbe3a-e1642341091740.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, ‘일본 골든디스크 대상’서 첫 수상 ‘영예’ (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173629?lang=ko</link>
             <guid>https://yg-life.com/archives/173629?lang=ko</guid>
@@ -848,22 +864,6 @@
             <pubDate>Tue, 22 Feb 2022 16:18:32 GMT</pubDate>
             <content:encoded><![CDATA[[뉴시스=임희정 기자] YG엔터테인먼트의 신인 그룹 ‘트레저’의 첫 미니앨범 ‘더 세컨드 스텝 : 챕터 원(THE SECOND STEP : CHAP...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/7b7d962f9fbaff297276c11ddd42ce27-e1645543585902.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, 첫 밀리언셀러 도전..연일 자체 최고 기록 경신 중 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173191?lang=ko</link>
-            <guid>https://yg-life.com/archives/173191?lang=ko</guid>
-            <pubDate>Tue, 22 Feb 2022 11:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 트레저의 첫 번째 미니앨범 ‘THE SECOND STEP : CHAPTER ONE’ 초동 판매량(22일 한터차트 집계 기준)이 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/c6ea17c8161476bd40ce09b9eca65e94-e1644849677266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, 음반 판매량 한터 주간 차트 1위..70만장 돌파 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173177?lang=ko</link>
-            <guid>https://yg-life.com/archives/173177?lang=ko</guid>
-            <pubDate>Mon, 21 Feb 2022 07:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저(TREASURE)가 전 세계 온·오프라인 판매량을 집계하는 한터차트 1위로 ‘직진’했다. 21일 한터차트에 따...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/b2b29baa0676863b8a25a7ff81ef4d40-e1645082945130.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
