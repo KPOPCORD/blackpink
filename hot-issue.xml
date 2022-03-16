@@ -4,9 +4,25 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 06:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 07:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅뱅, 4년 만의 컴백 초읽기…신곡 뮤비 촬영 완료]]></title>
+            <link>https://yg-life.com/archives/173705?lang=ko</link>
+            <guid>https://yg-life.com/archives/173705?lang=ko</guid>
+            <pubDate>Wed, 16 Mar 2022 07:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴시스=김주희 인턴 기자] 그룹 ‘빅뱅(BIGBANG)’이 컴백 초읽기에 들어갔다. 16일 소속사 YG엔터테인먼트에 따르면, 최근 빅뱅은 신곡 뮤직비디오 촬...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/d0ee2dd546c4badf090ceecd9c86908b-e1644198697196.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이콘, 자체 제작 예능 ‘아이콘 온 에어’ 론칭]]></title>
+            <link>https://yg-life.com/archives/173701?lang=ko</link>
+            <guid>https://yg-life.com/archives/173701?lang=ko</guid>
+            <pubDate>Wed, 16 Mar 2022 07:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]그룹 아이콘(iKON)이 새로운 자체 제작 예능으로 글로벌 팬들에게 즐거움을 선물한다. YG엔터테인먼트는 “신규 웹예능 ‘아이콘 온...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/47070069e647e935f73f45acd790ee50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트레저, ‘다라리’ 美 빌보드 인기 행진…무서운 상승세]]></title>
             <link>https://yg-life.com/archives/173689?lang=ko</link>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 24 Feb 2022 10:14:28 GMT</pubDate>
             <content:encoded><![CDATA[[YTN=곽현수 기자] 트레저의 콘서트 ‘트레이스(TRACE)’ 오프라인 관람권 일반 예매가 오늘(24일) 오후 8시부터 옥션 티켓에서 시작된다. 컴백과 동시...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/33a941cc4f6a0ad4e21bcf669c5eb739.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, 日 최대 음원 사이트 라인뮤직 주간 차트 1위]]></title>
-            <link>https://yg-life.com/archives/173246?lang=ko</link>
-            <guid>https://yg-life.com/archives/173246?lang=ko</guid>
-            <pubDate>Thu, 24 Feb 2022 10:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[[한국경제TV=유병철 기자] YG 대형 그룹 트레저가 일본 라인뮤직 주간 차트 정상을 밟았다. 현지 활동 없이 일본 최대 음원 사이트에서 거둔 5연속 1위 행진이다. 23일 YG엔...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/c6ea17c8161476bd40ce09b9eca65e94-e1644849677266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, ‘직진’ 댄스 퍼포먼스 비디오 공개..원테이크 촬영]]></title>
-            <link>https://yg-life.com/archives/173242?lang=ko</link>
-            <guid>https://yg-life.com/archives/173242?lang=ko</guid>
-            <pubDate>Thu, 24 Feb 2022 10:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저(TREASURE)의 타이틀곡 ‘직진 (JIKJIN)’ 댄스 퍼포먼스 비디오가 24일 전격 공개됐다. 원테이크 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/8d7c51c1ef77cb22cfe63bf03cd796d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
