@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 00:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빅뱅, 4월 5일 컴백…4인조로 4년 만에 신곡 발표 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173773?lang=ko</link>
+            <guid>https://yg-life.com/archives/173773?lang=ko</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 그룹 빅뱅이 4월 5일 컴백한다. YG엔터테인먼트는 21일 공식 블로그에 빅뱅의 신곡 발표를 알리는 릴리즈 포스터를 공개했다. 지드래곤, 탑 역시 자신...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/a8c728fe3f8f9c9c141a5d892cf9e3e1-e1647781580361.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙핑크 제니 ‘솔로’ 뮤비 8억뷰…한국 여성 솔로 신기록 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173746?lang=ko</link>
             <guid>https://yg-life.com/archives/173746?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Sat, 26 Feb 2022 06:16:24 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저가 타이틀곡 ‘직진 (JIKJIN)’으로 음악방송 2관왕을 기록하며 인기 질주 중이다. 트레저는 지난 25일 오후 방송된 KBS2 ‘...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/137fc20083bcc2123fdfa0a9f2a9c6b5-e1645229819739.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, ‘쇼챔’ 1위→’엠카’ 출격..음방 첫 무대 ‘직진’+’U’ 예고 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173268?lang=ko</link>
-            <guid>https://yg-life.com/archives/173268?lang=ko</guid>
-            <pubDate>Thu, 24 Feb 2022 10:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저가 음악방송 첫 무대를 Mnet ‘엠카운트다운’으로 결정, ‘직진’ 인기에 박차를 가한다....]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/c5824af246d87f961159c105c11bbe3a-e1642341091740.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
