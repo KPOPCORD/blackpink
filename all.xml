@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 00:59:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:40:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG 트레저, 앨범 판매량 80만장 돌파…자체 최고 기록 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173861?lang=ko</link>
+            <guid>https://yg-life.com/archives/173861?lang=ko</guid>
+            <pubDate>Mon, 28 Mar 2022 02:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신지원 기자] 트레저의 미니 1집 ‘THE SECOND STEP : CHAPTER ONE’ 판매량이 80만 장을 돌파했다고 YG엔터테인먼트가 28일...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/b2b29baa0676863b8a25a7ff81ef4d40-e1645082945130.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트레저 지훈, ‘인기가요’ MC 하차 소감 “성장할 수 있었던 시간” (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173855?lang=ko</link>
+            <guid>https://yg-life.com/archives/173855?lang=ko</guid>
+            <pubDate>Mon, 28 Mar 2022 02:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[[MK스포츠=손진아 기자] 트레저 지훈이 음악방송 진행자로서 활약을 지켜봐 준 팬들에게 감사 인사를 전함과 동시에 더욱 왕성한 무대 활동으로 보답하겠다고 밝혔다. 지훈은 오늘 (2...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/f3a453479b55af14f67694369344d61f-e1642428262914.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빅뱅, 4월 5일 컴백→신곡 제목 ‘봄여름가을겨울’..YG “4人의 과거 함축적 표현” (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173813?lang=ko</link>
             <guid>https://yg-life.com/archives/173813?lang=ko</guid>
@@ -848,22 +864,6 @@
             <pubDate>Fri, 04 Mar 2022 04:16:53 GMT</pubDate>
             <content:encoded><![CDATA[[뉴시스=이혜민 인턴 기자] YG엔터테인먼트의 그룹 ‘트레저’가 새 앨범 타이틀곡 ‘직진(JIKJIN)’ 댄스 커버 콘테스트를 4일부터 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/1533fa85e32ce0139384204c02b07fec-e1646314489850.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강승윤, 14일 ‘BORN TO LOVE YOU’ 발매…트레저 방예담 작사·작곡 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173402?lang=ko</link>
-            <guid>https://yg-life.com/archives/173402?lang=ko</guid>
-            <pubDate>Fri, 04 Mar 2022 08:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[[엑스포츠뉴스=이슬 기자] 위너 강승윤이 신곡 ‘BORN TO LOVE YOU’로 1년 만에 컴백한다. 강승윤의 솔로 신곡 제목은 ‘BORN TO ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/c3687f7f5bc0e14be2976721a23426dd-e1646314207943.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, 글로벌 무대로 ‘직진’…美 빌보드 진입·MV 5000만뷰 돌파 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173372?lang=ko</link>
-            <guid>https://yg-life.com/archives/173372?lang=ko</guid>
-            <pubDate>Wed, 02 Mar 2022 11:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제=고승희 기자] 그룹 트레저가 데뷔 1년 만에 눈 부신 성과를 쓰고 있다. 미국 빌보드 차트에 진입한 것은 물론 뮤직비디오는 자체 최단 속도로 기록 경신 중이다. 2일 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/6cabac56394a6413ae96ca2a996ada6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
