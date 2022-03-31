@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 02:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 03:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이콘X트레저 ‘직진’ 커버 리액션 영상 공개..끈끈한 YG패밀리십 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173888?lang=ko</link>
+            <guid>https://yg-life.com/archives/173888?lang=ko</guid>
+            <pubDate>Thu, 31 Mar 2022 03:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] YG 신인 그룹 트레저가 소속사 선배인 아이콘(iKON)의 신곡 퍼포먼스 커버를 예고해 글로벌 팬들을 설레게 했다. YG엔터테인먼트는 31일 공식 유튜브 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/8f58c26dee2c5806f37d7dc0eb36b7ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, 첫 단독 콘서트 좌석 추가 오픈..’다라리’ 퍼포먼스→新 무대 예고 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173881?lang=ko</link>
             <guid>https://yg-life.com/archives/173881?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Sat, 05 Mar 2022 12:19:00 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴=전효진 기자] YG엔터테인먼트 아티스트들이 한자리에 모여 돈독한 패밀리십과 막강한 글로벌 영향력을 뽐냈다. 지난달 25일과 4일 연이어 방송된 tvN ‘출장 십오야2’에...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/2f62d2260e799818bdab51763e1bcfa9-e1646450344402.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, ‘2022 웰커밍 컬렉션’ 예판 오픈..환상의 나라로 떠난 열두 멤버 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173422?lang=ko</link>
-            <guid>https://yg-life.com/archives/173422?lang=ko</guid>
-            <pubDate>Sat, 05 Mar 2022 03:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저의 ‘2022 웰커밍 컬렉션’ (TREASURE 2022 WELCOMING COLLECTION -WINTER C...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/e31176d9c77d2387d06dea07e8617f07-e1646447597812.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
