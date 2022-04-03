@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 04:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 05:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG 트레저, 첫 단독 콘서트 좌석 추가 오픈..’다라리’ 퍼포먼스→新 무대 예고 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173970?lang=ko</link>
+            <guid>https://yg-life.com/archives/173970?lang=ko</guid>
+            <pubDate>Sun, 03 Apr 2022 05:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저 (TREASURE)가 팬들의 뜨거운 성원에 힘입어 내달 예정된 콘서트 좌석을 추가 오픈한다. 트레저는 오는 4월 9일과 10일 양일...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/b2b29baa0676863b8a25a7ff81ef4d40-e1645082945130.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YG 트레저, 데뷔 첫 日 아레나 투어 개최 확정 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173960?lang=ko</link>
+            <guid>https://yg-life.com/archives/173960?lang=ko</guid>
+            <pubDate>Sun, 03 Apr 2022 05:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스=김수진 기자] YG 대형 신인 트레저 (TREASURE)가 일본 6개 도시서 총 17회에 걸친 아레나 콘서트 투어를 확정했다. 1일 YG엔터테인먼트에 따르면 트레저는 오...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/c6ea17c8161476bd40ce09b9eca65e94-e1644849677266.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지드래곤, 빅뱅 신곡 ‘봄여름가을겨울’로 ‘인간 권지용’ 표현 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173935?lang=ko</link>
             <guid>https://yg-life.com/archives/173935?lang=ko</guid>
@@ -848,22 +864,6 @@
             <pubDate>Sun, 13 Mar 2022 04:17:06 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=지민경 기자] 위너 강승윤의 솔로 신곡 ‘BORN TO LOVE YOU’ 발표가 단 하루 앞으로 다가오면서 음악 팬들의 기대감이 최고조에 달했다. ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/e72c3cf6484c5c242e87c6c4e25f2ee8-e1647083885921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘, 트레저 ‘직진’ 커버 영상…”동경해 온 선배 응원에 무한 감사” (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173561?lang=ko</link>
-            <guid>https://yg-life.com/archives/173561?lang=ko</guid>
-            <pubDate>Sun, 13 Mar 2022 04:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[[엑스포츠뉴스=김유진 기자] 그룹 아이콘(iKON)이 트레저의 ‘직진 (JIKJIN)’ 커버 영상을 공개했다. 공개된 영상에서는 아이콘이 직접 부른 ̵...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/571408fbff1d31ee37496560cae788a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG엔터, 산불피해 이재민 위해 5억원 기부 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173503?lang=ko</link>
-            <guid>https://yg-life.com/archives/173503?lang=ko</guid>
-            <pubDate>Thu, 10 Mar 2022 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴시스=이재훈 기자] 그룹 ‘빅뱅’과 ‘블랙핑크’ 소속사 YG엔터테인먼트가 경북 울진·강원 삼척 등지에서 발생한 산불 피해 이재민들을 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/fa8cfb05972426883c15d1ca78ab686f.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
