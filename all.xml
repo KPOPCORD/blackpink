@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 00:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 02:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,22 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지드래곤, 파격 무지개 장발…컴백 앞두고 충격 헤어스타일 공개 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/174011?lang=ko</link>
+            <guid>https://yg-life.com/archives/174011?lang=ko</guid>
+            <pubDate>Mon, 04 Apr 2022 10:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[[세계일보=강민선 기자] 지난달 7일 빅뱅의 컴백 소식이 알려진 가운데 빅뱅 멤버 지드래곤(본명 권지용)이 파격적인 헤어스타일로 변신했다. 4일 지드래곤은 인스타그램에 사진을 게재...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/14034702bf4a9f9a9cf15678076c6a55-e1649036192553.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅뱅, 오늘(4일) ‘봄여름가을겨울’ 발매…4년 만의 신곡 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/173999?lang=ko</link>
+            <guid>https://yg-life.com/archives/173999?lang=ko</guid>
+            <pubDate>Mon, 04 Apr 2022 10:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리=강다윤 기자] 그룹 빅뱅의 신곡이 베일을 벗는다. YG엔터테인먼트는 4일 공식 블로그에 빅뱅의 디지털 싱글 ‘봄여름가을겨울 (Still Life)’...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/745a6734989a4c740747b4a30c306630-e1649036028662.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, 첫 단독 콘서트 좌석 추가 오픈..’다라리’ 퍼포먼스→新 무대 예고 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/173970?lang=ko</link>
             <guid>https://yg-life.com/archives/173970?lang=ko</guid>
@@ -848,22 +864,6 @@
             <pubDate>Mon, 14 Mar 2022 09:14:18 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=지민경 기자] YG 대형 그룹 트레저 (TREASURE)가 일본 골든 디스크 대상서 첫 수상의 영광을 안았다. 트레저는 14일 발표된 제36회 일본 골든디스크 대상 수상...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/b2b29baa0676863b8a25a7ff81ef4d40-e1645082945130.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘컴백’ 강승윤 “‘보컬리스트’라는 한 마디만 들어도 만족해요” (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173609?lang=ko</link>
-            <guid>https://yg-life.com/archives/173609?lang=ko</guid>
-            <pubDate>Mon, 14 Mar 2022 02:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제=추승현 기자] 그룹 위너 강승윤이 솔로로 돌아온다. 강승윤은 14일 오후 6시 솔로 신곡 ‘본 투 러브 유(BORN TO LOVE YOU)’를 발표...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/379e91521abc437eb4dd4a189d227847-e1647177328690.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“솔로 컴백 D-1” 강승윤, ‘BORN TO LOVE YOU’ 기대감 최고조 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173566?lang=ko</link>
-            <guid>https://yg-life.com/archives/173566?lang=ko</guid>
-            <pubDate>Sun, 13 Mar 2022 04:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=지민경 기자] 위너 강승윤의 솔로 신곡 ‘BORN TO LOVE YOU’ 발표가 단 하루 앞으로 다가오면서 음악 팬들의 기대감이 최고조에 달했다. ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/e72c3cf6484c5c242e87c6c4e25f2ee8-e1647083885921.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
