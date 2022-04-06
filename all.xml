@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 01:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트레저, 첫 단독 콘서트 연습 비하인드…YG “특별 커버 기대해달라” (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/174080?lang=ko</link>
+            <guid>https://yg-life.com/archives/174080?lang=ko</guid>
+            <pubDate>Wed, 06 Apr 2022 10:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[[엑스포츠뉴스=김노을 기자] 그룹 트레저가 첫 단독 콘서트의 스페셜 무대를 예고했다. YG엔터테인먼트(이하 YG)는 6일 공식 블로그를 통해 트레저의 콘서트 ‘트레이스 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/1ec244da21a3f7dc2bffb3354727d856.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[빅뱅, 4년 지나도 여전했다..아름답게 전한 진심과 위안 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/174046?lang=ko</link>
             <guid>https://yg-life.com/archives/174046?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Tue, 15 Mar 2022 08:17:10 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=이승훈 기자] 위너 강승윤이 솔로 신곡 ‘BORN TO LOVE YOU’로 음악팬들의 마음을 촉촉히 적시며 명품 보컬리스트로서 진가를 다시 한번 증...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/379e91521abc437eb4dd4a189d227847-e1647177328690.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저 수록곡 ‘다라리’, 예사롭지 않은 인기 확산세 ‘주목’ (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173660?lang=ko</link>
-            <guid>https://yg-life.com/archives/173660?lang=ko</guid>
-            <pubDate>Tue, 15 Mar 2022 08:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자] YG엔터테인먼트 대형 그룹 트레저(TREASURE)의 첫 미니앨범 수록곡 ‘다라리 (DARARI)’의 글로벌 인기 확산세가 예사롭...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/c5824af246d87f961159c105c11bbe3a-e1642341091740.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
