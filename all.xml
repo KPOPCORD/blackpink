@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 09:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 10:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“빅뱅, 4년 전보다 더 멋있어졌다” 英 NME 만점 호평 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/174109?lang=ko</link>
+            <guid>https://yg-life.com/archives/174109?lang=ko</guid>
+            <pubDate>Fri, 08 Apr 2022 10:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴=전효진 기자] 그룹 빅뱅(BIGBANG)이 약 4년 만에 발표한 ‘봄여름가을겨울’로 대중성과 음악성을 모두 거머쥐었다. 6일(현지시간) 영국 유명 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/745a6734989a4c740747b4a30c306630-e1649036028662.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트레저, 첫 단독 콘서트 연습 비하인드…YG “특별 커버 기대해달라” (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/174080?lang=ko</link>
             <guid>https://yg-life.com/archives/174080?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Wed, 16 Mar 2022 02:21:35 GMT</pubDate>
             <content:encoded><![CDATA[[헤럴드경제=고승희 기자] 그룹 블랙핑크(BLACKPINK) 리사가 안무 영상으로 K팝 신기록을 세웠다. 역대 최단 시간 내에 5억뷰에 도달했다. 16일&nbsp;YG엔터테인먼트에 따르면 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/eb09d43ab814a7af1fb76f6877b6d08a-e1647337819510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“강승윤이 곧 장르”..강승윤 ‘BORN TO LOVE YOU’, 아이튠즈 9개국 1위 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173668?lang=ko</link>
-            <guid>https://yg-life.com/archives/173668?lang=ko</guid>
-            <pubDate>Tue, 15 Mar 2022 08:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] 위너 강승윤이 솔로 신곡 ‘BORN TO LOVE YOU’로 음악팬들의 마음을 촉촉히 적시며 명품 보컬리스트로서 진가를 다시 한번 증...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/379e91521abc437eb4dd4a189d227847-e1647177328690.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
