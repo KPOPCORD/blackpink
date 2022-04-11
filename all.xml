@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이콘, 1년 1개월 만 컴백…”신곡MV 촬영 완료” (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/174140?lang=ko</link>
+            <guid>https://yg-life.com/archives/174140?lang=ko</guid>
+            <pubDate>Mon, 11 Apr 2022 05:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[[엑스포츠뉴스=이슬 기자] 아이콘(iKON)이 약 1년 1개월 만에 새 앨범을 들고 돌아온다. 오는 6월 콘서트에 앞서 발표하는 신보인 만큼 글로벌 팬들의 큰 관심이 쏠릴 전망이다...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/f7abc9c2fd1a13baa5c558a6e5fee2cb-e1649601223618.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, 오늘(9일) 첫 단독 콘서트 개최..”모든 에너지 쏟아붓겠다” (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/174116?lang=ko</link>
             <guid>https://yg-life.com/archives/174116?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Wed, 16 Mar 2022 07:14:09 GMT</pubDate>
             <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자] 그룹 아이콘(iKON)이 새로운 자체 제작 예능으로 글로벌 팬들에게 즐거움을 선물한다. YG엔터테인먼트는 “신규 웹예능 ‘아이콘 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/47070069e647e935f73f45acd790ee50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, ‘다라리’ 美 빌보드 인기 행진…무서운 상승세 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173689?lang=ko</link>
-            <guid>https://yg-life.com/archives/173689?lang=ko</guid>
-            <pubDate>Wed, 16 Mar 2022 02:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[[엑스포츠뉴스=김예나 기자] 그룹 트레저가 예사롭지 않은 인기로 주목 받고 있다. 16일 소속사 YG엔터테인먼트에 따르면 트레저 수록곡 ‘다라리 (DARARI)̵...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/c5824af246d87f961159c105c11bbe3a-e1642341091740.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
