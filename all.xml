@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 14:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 15:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[YG 트레저, 브레이크 없이 ‘직진’ 몰아친 첫 단독 콘서트 ‘눈물’ (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/174146?lang=ko</link>
+            <guid>https://yg-life.com/archives/174146?lang=ko</guid>
+            <pubDate>Mon, 11 Apr 2022 15:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자] 보이그룹 트레저가 약 140분간 몰아친 무대 위 폭풍 질주로 글로벌 팬들의 심장을 뜨겁게 달궜다. 지난 9일과 10일 서울 방이동 올림픽공원 올림픽홀에서는...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/33a941cc4f6a0ad4e21bcf669c5eb739.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이콘, 1년 1개월 만 컴백…”신곡MV 촬영 완료” (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/174140?lang=ko</link>
             <guid>https://yg-life.com/archives/174140?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Wed, 16 Mar 2022 07:14:09 GMT</pubDate>
             <content:encoded><![CDATA[[뉴시스=김주희 인턴 기자] 그룹 ‘빅뱅(BIGBANG)’이 컴백 초읽기에 들어갔다. 16일 소속사 YG엔터테인먼트에 따르면, 최근 빅뱅은 신곡 뮤직비디오 촬...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/d0ee2dd546c4badf090ceecd9c86908b-e1644198697196.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘, 자체 제작 예능 ‘아이콘 온 에어’ 론칭 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173701?lang=ko</link>
-            <guid>https://yg-life.com/archives/173701?lang=ko</guid>
-            <pubDate>Wed, 16 Mar 2022 07:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자] 그룹 아이콘(iKON)이 새로운 자체 제작 예능으로 글로벌 팬들에게 즐거움을 선물한다. YG엔터테인먼트는 “신규 웹예능 ‘아이콘 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/47070069e647e935f73f45acd790ee50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
