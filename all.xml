@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 06:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 07:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이콘, 5월 3일 컴백 확정…완전체 1년 2개월 만 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/174175?lang=ko</link>
+            <guid>https://yg-life.com/archives/174175?lang=ko</guid>
+            <pubDate>Thu, 14 Apr 2022 07:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[[한경닷컴=김수영 기자] 그룹 아이콘(iKON)이 오는 5월 3일 컴백한다. YG엔터테인먼트는 14일 공식 블로그에 아이콘의 신보를 예고하는 ‘릴리즈 포스터(RELEAS...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/bbed214dac4b29af18c7a0ce601e5186-e1649857848184.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[YG 트레저, 브레이크 없이 ‘직진’ 몰아친 첫 단독 콘서트 ‘눈물’ (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/174146?lang=ko</link>
             <guid>https://yg-life.com/archives/174146?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Thu, 17 Mar 2022 03:15:05 GMT</pubDate>
             <content:encoded><![CDATA[[연합뉴스=이태수 기자] 걸그룹 블랙핑크 제니의 ‘솔로’ 뮤직비디오 유튜브 조회 수가 8억건을 돌파했다고 소속사 YG엔터테인먼트가 17일 밝혔다. 뮤직비디오 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/c82a3ee9569460f944799f9e0e2a1a94-e1647470089583.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅뱅, 4년 만의 컴백 초읽기…신곡 뮤비 촬영 완료 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173705?lang=ko</link>
-            <guid>https://yg-life.com/archives/173705?lang=ko</guid>
-            <pubDate>Wed, 16 Mar 2022 07:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴시스=김주희 인턴 기자] 그룹 ‘빅뱅(BIGBANG)’이 컴백 초읽기에 들어갔다. 16일 소속사 YG엔터테인먼트에 따르면, 최근 빅뱅은 신곡 뮤직비디오 촬...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/d0ee2dd546c4badf090ceecd9c86908b-e1644198697196.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
