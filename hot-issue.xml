@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 01:00:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘컴백’ 아이콘, 몽환적 카리스마]]></title>
+            <link>https://yg-life.com/archives/174199?lang=ko</link>
+            <guid>https://yg-life.com/archives/174199?lang=ko</guid>
+            <pubDate>Fri, 15 Apr 2022 03:06:08 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 아이콘(iKON)의 새 앨범 콘셉트에 대한 궁금증을 자극하는 티저 영상이 처음 공개돼 글로벌 음악팬들 관심이 집중되고 있다. YG엔터테인먼트는 15일...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/000e39745ace73cea5cfdcee628940e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이콘, 5월 3일 컴백 확정…완전체 1년 2개월 만]]></title>
             <link>https://yg-life.com/archives/174175?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 21 Mar 2022 02:26:28 GMT</pubDate>
             <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 그룹 빅뱅이 4월 5일 컴백한다. YG엔터테인먼트는 21일 공식 블로그에 빅뱅의 신곡 발표를 알리는 릴리즈 포스터를 공개했다. 지드래곤, 탑 역시 자신...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/a8c728fe3f8f9c9c141a5d892cf9e3e1-e1647781580361.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니 ‘솔로’ 뮤비 8억뷰…한국 여성 솔로 신기록]]></title>
-            <link>https://yg-life.com/archives/173746?lang=ko</link>
-            <guid>https://yg-life.com/archives/173746?lang=ko</guid>
-            <pubDate>Thu, 17 Mar 2022 03:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[[연합뉴스=이태수 기자] 걸그룹 블랙핑크 제니의 ‘솔로’ 뮤직비디오 유튜브 조회 수가 8억건을 돌파했다고 소속사 YG엔터테인먼트가 17일 밝혔다. 뮤직비디오 ...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/c82a3ee9569460f944799f9e0e2a1a94-e1647470089583.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
