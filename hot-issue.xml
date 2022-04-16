@@ -4,9 +4,25 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 03:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 04:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이콘, 2년 6개월 만에 일본 투어 개최…2개 도시 6회 공연]]></title>
+            <link>https://yg-life.com/archives/174226?lang=ko</link>
+            <guid>https://yg-life.com/archives/174226?lang=ko</guid>
+            <pubDate>Sat, 16 Apr 2022 04:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]그룹 아이콘이 일본 2개 도시서 총 6회에 걸쳐 콘서트를 개최한다. YG엔터테인먼트에 따르면 아이콘은 오는 7월 2일과 3일 효고현 코베 월드기념홀에서 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/a722a91bb7f0efdb0380ac5b37b9fcc4-e1650081686245.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[YG 트레저, ‘다라리’ 안무 영상 오픈→MV 제작 예고..글로벌 역주행 인기 잇는다]]></title>
+            <link>https://yg-life.com/archives/174221?lang=ko</link>
+            <guid>https://yg-life.com/archives/174221?lang=ko</guid>
+            <pubDate>Sat, 16 Apr 2022 12:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 신인 트레저의 역주행 인기곡 ‘다라리 (DARARI)’ 안무 영상이 16일 깜짝 공개됐다. 강렬한 카리스마가 돋보인 타이틀...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/0954df1108c6ad62f0bf712653c16cb3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘컴백’ 아이콘, 몽환적 카리스마]]></title>
             <link>https://yg-life.com/archives/174199?lang=ko</link>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 23 Mar 2022 04:17:14 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=차혜영 기자] YG 신인 그룹 트레저가 각종 글로벌 차트서 역주행 인기를 끌고 있는 ‘다라리 (DARARI)’를 후속곡으로 결정하고 뮤직비디오 제작...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/c5824af246d87f961159c105c11bbe3a-e1642341091740.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 리사 제작 참여…’LALISA’ 한정판 골드 LP 에디션 출시]]></title>
-            <link>https://yg-life.com/archives/173778?lang=ko</link>
-            <guid>https://yg-life.com/archives/173778?lang=ko</guid>
-            <pubDate>Mon, 21 Mar 2022 13:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[[엑스포츠뉴스=조혜진 기자] 그룹 블랙핑크 리사의 첫 솔로앨범 ‘LALISA’ 한정판 골드 LP 에디션 예약 판매가 &nbsp;시작됐다. 21일 소속사 YG엔터테인먼트...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/09739766ce1752dad697399f81e39150-e1647866624631.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅뱅, 4월 5일 컴백…4인조로 4년 만에 신곡 발표]]></title>
-            <link>https://yg-life.com/archives/173773?lang=ko</link>
-            <guid>https://yg-life.com/archives/173773?lang=ko</guid>
-            <pubDate>Mon, 21 Mar 2022 02:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 그룹 빅뱅이 4월 5일 컴백한다. YG엔터테인먼트는 21일 공식 블로그에 빅뱅의 신곡 발표를 알리는 릴리즈 포스터를 공개했다. 지드래곤, 탑 역시 자신...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/a8c728fe3f8f9c9c141a5d892cf9e3e1-e1647781580361.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
