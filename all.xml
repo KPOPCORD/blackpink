@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 12:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 13:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크, 정규 1집 전곡 스포티파이 억대 스트리밍 달성 (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/174280?lang=ko</link>
+            <guid>https://yg-life.com/archives/174280?lang=ko</guid>
+            <pubDate>Mon, 18 Apr 2022 13:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자] 블랙핑크 정규 1집에 담긴 모든 노래가 스포티파이서 억대 스트리밍을 달성하는 유의미한 기록을 세웠다. 18일 YG엔터테인먼트에 따르면 블랙핑크의 정규 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2021/10/139012e249b82a772e975285ad5e1513-e1635516369441.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빅뱅 ‘봄여름가을겨울’ MV 본 위너-아이콘-트레저 반응은? “명불허전” (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/174269?lang=ko</link>
             <guid>https://yg-life.com/archives/174269?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Mon, 28 Mar 2022 02:40:53 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=신지원 기자] 트레저의 미니 1집 ‘THE SECOND STEP : CHAPTER ONE’ 판매량이 80만 장을 돌파했다고 YG엔터테인먼트가 28일...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/b2b29baa0676863b8a25a7ff81ef4d40-e1645082945130.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저 지훈, ‘인기가요’ MC 하차 소감 “성장할 수 있었던 시간” (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173855?lang=ko</link>
-            <guid>https://yg-life.com/archives/173855?lang=ko</guid>
-            <pubDate>Mon, 28 Mar 2022 02:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[[MK스포츠=손진아 기자] 트레저 지훈이 음악방송 진행자로서 활약을 지켜봐 준 팬들에게 감사 인사를 전함과 동시에 더욱 왕성한 무대 활동으로 보답하겠다고 밝혔다. 지훈은 오늘 (2...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/01/f3a453479b55af14f67694369344d61f-e1642428262914.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
