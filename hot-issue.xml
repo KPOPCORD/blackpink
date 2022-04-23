@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 01:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 02:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 ‘붐바야’ MV 14억뷰 돌파..6년이 지나도 꾸준한 인기]]></title>
+            <link>https://yg-life.com/archives/174329?lang=ko</link>
+            <guid>https://yg-life.com/archives/174329?lang=ko</guid>
+            <pubDate>Sat, 23 Apr 2022 02:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스=공미나 기자] 걸그룹 블랙핑크(BLACKPINK)의 ‘붐바야’ 뮤직비디오가 유튜브에서 14억뷰를 돌파했다. 23일 소속사 YG엔터테인먼트에 따르면 ...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/b1653ddb537ddca2ae7ca22b571d6afb-e1650630464499.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이콘, 새 앨범 타이틀곡 제목은 ‘너라는 이유’…또 다른 음악 색깔 예고]]></title>
             <link>https://yg-life.com/archives/174310?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 31 Mar 2022 03:26:31 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=지민경 기자] YG 신인 그룹 트레저가 소속사 선배인 아이콘(iKON)의 신곡 퍼포먼스 커버를 예고해 글로벌 팬들을 설레게 했다. YG엔터테인먼트는 31일 공식 유튜브 ...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/8f58c26dee2c5806f37d7dc0eb36b7ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, 첫 단독 콘서트 좌석 추가 오픈..’다라리’ 퍼포먼스→新 무대 예고]]></title>
-            <link>https://yg-life.com/archives/173881?lang=ko</link>
-            <guid>https://yg-life.com/archives/173881?lang=ko</guid>
-            <pubDate>Tue, 29 Mar 2022 07:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 대형 그룹 트레저 (TREASURE)가 팬들의 뜨거운 성원에 힘입어 내달 예정된 콘서트 좌석을 추가 오픈한다. 트레저는 오는 4월 9일과 10일 양일...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/b2b29baa0676863b8a25a7ff81ef4d40-e1645082945130.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
