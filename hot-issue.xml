@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 01:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 03:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위너, 완전체 콘서트 시작..월드투어 함께한 밴드 세션 합류→고품격 무대 예고]]></title>
+            <link>https://yg-life.com/archives/174403?lang=ko</link>
+            <guid>https://yg-life.com/archives/174403?lang=ko</guid>
+            <pubDate>Sat, 30 Apr 2022 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=이승훈 기자] 그룹 위너가 오늘(30일)과 내일(1일) 서울 올림픽공원 올림픽홀에서 ‘2022 콘서트 [THE CIRCLE]’을 열고 팬들과 만난다...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/4ad9e6430bd7209e2f301160db0b31fa-e1651287298451.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[아이콘, 5월 3일 오후 5시 컴백 카운트다운 라이브..특급 소통 예고]]></title>
             <link>https://yg-life.com/archives/174377?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 01 Apr 2022 03:13:36 GMT</pubDate>
             <content:encoded><![CDATA[[MK스포츠=손진아 기자] 그룹 빅뱅의 컴백이 4일 앞으로 다가온 가운데 이들 신곡 ‘봄여름가을겨울’ 노랫말 일부가 처음 공개됐다. YG엔터테인먼트는 1일 공...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/86df5bc2f5cfb99b67d445174cbdffe3-e1648732325290.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YG 트레저, ‘직진’⋅’다다리’→’U’까지? 日 최대 음원사이트 1위..현지 돌풍ing]]></title>
-            <link>https://yg-life.com/archives/173908?lang=ko</link>
-            <guid>https://yg-life.com/archives/173908?lang=ko</guid>
-            <pubDate>Fri, 01 Apr 2022 03:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이승훈 기자] YG 신인 그룹 트레저가 타이틀곡 ‘직진 (JIKJIN)’과 ‘다라리 (DARARI)’ 열풍에 더해 이번에는 &amp;...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/c6ea17c8161476bd40ce09b9eca65e94-e1644849677266.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
