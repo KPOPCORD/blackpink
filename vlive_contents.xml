@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/F001E5/board/6826?lang=ko</id>
-    <title>BLACKPINK ─ Contents</title>
-    <updated>2022-04-30T11:12:25.938Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>BLACKPINK ─ Contents</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 30 Apr 2022 12:22:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ROSÉ ‘Gone’ MV 배경화면 (Exclusive ver.)]]></title>
+            <link>https://www.vlive.tv/post/0-22255125</link>
+            <guid>https://www.vlive.tv/post/0-22255125</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.4.9.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210710_169/1625896473240JxhHb_JPEG/image.JPEG?type=f144x144" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY LISA DAY 🐥]]></title>
+            <link>https://www.vlive.tv/post/0-22035034</link>
+            <guid>https://www.vlive.tv/post/0-22035034</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.3.27.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210710_32/1625898857984rIA83_JPEG/image.JPEG?type=f144x144" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[ROSÉ ‘On The Ground’ MV 배경화면 (Exclusive ver.)]]></title>
+            <link>https://www.vlive.tv/post/1-21879226</link>
+            <guid>https://www.vlive.tv/post/1-21879226</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.3.17.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210710_133/16259007900970PfA7_JPEG/image.JPEG?type=f144x144" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[ROSÉ 솔로 데뷔 기념 ‘FROM ROSÉ’ ❀🐿❀]]></title>
+            <link>https://www.vlive.tv/post/1-21816442</link>
+            <guid>https://www.vlive.tv/post/1-21816442</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.3.14.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ROSÉ First Single Album 발매 기념 #해시태그 이벤트 당첨자 안내!]]></title>
+            <link>https://www.vlive.tv/post/1-21760594</link>
+            <guid>https://www.vlive.tv/post/1-21760594</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.3.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ROSÉ First Single Album 발매 기념 #해시태그 이벤트 안내!]]></title>
+            <link>https://www.vlive.tv/post/0-21627374</link>
+            <guid>https://www.vlive.tv/post/0-21627374</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.3.5.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY ROSÉ DAY🐿]]></title>
+            <link>https://www.vlive.tv/post/0-21246839</link>
+            <guid>https://www.vlive.tv/post/0-21246839</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.2.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BLINK 여러분 새해 복 많이 받으세요]]></title>
+            <link>https://www.vlive.tv/post/1-21251229</link>
+            <guid>https://www.vlive.tv/post/1-21251229</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.2.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY JENNIE DAY 🐱]]></title>
+            <link>https://www.vlive.tv/post/1-20870536</link>
+            <guid>https://www.vlive.tv/post/1-20870536</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.1.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY JISOO DAY🐰]]></title>
+            <link>https://www.vlive.tv/post/0-20695643</link>
+            <guid>https://www.vlive.tv/post/0-20695643</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.1.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BLINK MERRY CHRISTMAS & HAPPY NEW YEAR]]></title>
+            <link>https://www.vlive.tv/post/0-20500852</link>
+            <guid>https://www.vlive.tv/post/0-20500852</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2020.12.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BLINK 여러분, 토닥토닥 고생했어요]]></title>
+            <link>https://www.vlive.tv/post/0-20197269</link>
+            <guid>https://www.vlive.tv/post/0-20197269</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2020.12.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[REPLAY] 10/25 BLACKPINK+'s Broadcast :)]]></title>
+            <link>https://www.vlive.tv/post/0-19500194</link>
+            <guid>https://www.vlive.tv/post/0-19500194</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2020.11.5.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[REPLAY] 코가 막힌 츄디오🥺]]></title>
+            <link>https://www.vlive.tv/post/1-19657706</link>
+            <guid>https://www.vlive.tv/post/1-19657706</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2020.10.30.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] BLACKPINK [THE ALBUM] 발매기념 N행시 이벤트 당첨자 안내! (수정)]]></title>
+            <link>https://www.vlive.tv/post/1-19656088</link>
+            <guid>https://www.vlive.tv/post/1-19656088</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2020.10.30.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[REPLAY] 안자ㅎㅎ]]></title>
+            <link>https://www.vlive.tv/post/1-18420938</link>
+            <guid>https://www.vlive.tv/post/1-18420938</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2020.7.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[REPLAY] 리챙 라이브]]></title>
+            <link>https://www.vlive.tv/post/0-18410409</link>
+            <guid>https://www.vlive.tv/post/0-18410409</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2020.7.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BLACKPINK] 내가 제일 좋아하는 토끼중의 토끼.. 츄토끼🐰💕 (JISOO eating som tam)]]></title>
+            <link>https://www.vlive.tv/post/0-18271847</link>
+            <guid>https://www.vlive.tv/post/0-18271847</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2020.7.20.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BLACKPINK] 황Whole한 젠득이 내 세상 전부가 아닐리 ❌ (JENNIE giving heart for fans)]]></title>
+            <link>https://www.vlive.tv/post/0-18271876</link>
+            <guid>https://www.vlive.tv/post/0-18271876</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2020.7.14.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BLACKPINK] 1일1블핑 하면 독수리랑 친구 먹기 핑파서블👓🦅 (JISOO&LISA talking about glasses)]]></title>
+            <link>https://www.vlive.tv/post/1-18282168</link>
+            <guid>https://www.vlive.tv/post/1-18282168</guid>
+            <pubDate>Sat, 30 Apr 2022 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[2020.5.26.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
