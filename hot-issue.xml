@@ -4,9 +4,17 @@
         <title>YG LIFE ─ HOT ISSUE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 05:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 06:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위너, 팬들과 2년 만에 완전체 재회..”곧 기쁜 소식 가져올 것” 컴백 스포]]></title>
+            <link>https://yg-life.com/archives/174437?lang=ko</link>
+            <guid>https://yg-life.com/archives/174437?lang=ko</guid>
+            <pubDate>Mon, 02 May 2022 06:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 그룹 위너(WINNER)가 무려 3시간 동안 총 38개의 히트곡을 폭풍처럼 몰아치는 압도적인 무대로 글로벌 팬들을 열광하게 만들었다. 위너는 지난 4월 3...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/05/a12ea3c84063f831f60c1f4f05f2b3da-e1651469438472.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘컴백 D-1’ 아이콘, 레트로 판타지 콘셉트 스타일링 ‘눈길’]]></title>
             <link>https://yg-life.com/archives/174430?lang=ko</link>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 02 Apr 2022 12:12:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=우빈 기자] 그룹 빅뱅의 신곡 가사 일부가 베일을 벗어 글로벌 팬들의 마음을 뒤흔들었다. YG엔터테인먼트는 2일 공식 블로그에 빅뱅의 신곡 ‘봄여름가을겨울 (...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/04/4a7a46ea2df59cb8e80084a0cdc6c7bd-e1648823988283.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저, 日 앨범 발매 첫날 오리콘 차트 1위…음원도 강세]]></title>
-            <link>https://yg-life.com/archives/173929?lang=ko</link>
-            <guid>https://yg-life.com/archives/173929?lang=ko</guid>
-            <pubDate>Sat, 02 Apr 2022 12:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[[데일리안=박정선 기자] 그룹 트레저가 일본에서 발매한 미니앨범으로 오리콘 차트 정상을 밟았다. YG엔터테인먼트에 따르면 트레저의 ‘더 세컨드 스텝 : 챕터 원’(THE SECON...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/6cabac56394a6413ae96ca2a996ada6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
