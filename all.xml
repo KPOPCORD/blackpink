@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 04:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -674,6 +674,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDVfMjQ5/MDAxNTE1MTMwMzM5MTI2.9ociIxVgqbWiTGdsdaEWYNEvKoITA_zXyvNoVPQL9Tog.91kx492iuz61ky0ld55R25IDkSoVWJzySKLgSEeKzpMg.JPEG/IMTZzz4gpv8kkJZjY2QYAHxC16TM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘컴백 D-1’ 아이콘, 레트로 판타지 콘셉트 스타일링 ‘눈길’ (YG LIFE ─ HOT ISSUE)]]></title>
+            <link>https://yg-life.com/archives/174430?lang=ko</link>
+            <guid>https://yg-life.com/archives/174430?lang=ko</guid>
+            <pubDate>Mon, 02 May 2022 05:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[[한국경제TV=유병철 기자] 아이콘(iKON)의 컴백이 단 하루 앞으로 다가오면서 이들이 펼쳐보일 새로운 음악과 무대에 대한 글로벌 팬들의 기대감이 최고조에 달했다. YG엔터테인먼...]]></content:encoded>
+            <enclosure url="https://yg-life.com/wp-content/uploads/2022/05/32239aae273a9a681221f0ca42fe9ca4-e1651406123252.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위너, 완전체 콘서트 시작..월드투어 함께한 밴드 세션 합류→고품격 무대 예고 (YG LIFE ─ HOT ISSUE)]]></title>
             <link>https://yg-life.com/archives/174403?lang=ko</link>
             <guid>https://yg-life.com/archives/174403?lang=ko</guid>
@@ -856,14 +864,6 @@
             <pubDate>Sat, 02 Apr 2022 12:11:00 GMT</pubDate>
             <content:encoded><![CDATA[[데일리안=박정선 기자] 그룹 트레저가 일본에서 발매한 미니앨범으로 오리콘 차트 정상을 밟았다. YG엔터테인먼트에 따르면 트레저의 ‘더 세컨드 스텝 : 챕터 원’(THE SECON...]]></content:encoded>
             <enclosure url="https://yg-life.com/wp-content/uploads/2022/02/6cabac56394a6413ae96ca2a996ada6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅뱅, 신곡 ‘봄여름가을겨울’ 가사 일부 최초 공개 (YG LIFE ─ HOT ISSUE)]]></title>
-            <link>https://yg-life.com/archives/173914?lang=ko</link>
-            <guid>https://yg-life.com/archives/173914?lang=ko</guid>
-            <pubDate>Fri, 01 Apr 2022 03:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[[MK스포츠=손진아 기자] 그룹 빅뱅의 컴백이 4일 앞으로 다가온 가운데 이들 신곡 ‘봄여름가을겨울’ 노랫말 일부가 처음 공개됐다. YG엔터테인먼트는 1일 공...]]></content:encoded>
-            <enclosure url="https://yg-life.com/wp-content/uploads/2022/03/86df5bc2f5cfb99b67d445174cbdffe3-e1648732325290.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
