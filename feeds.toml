@@ -1,47 +1,3 @@
-[vlive]
-title = "BLACKPINK ─ Star Board"
-url = "https://www.vlive.tv/channel/F001E5/board/3961"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[class^='post_area']"
-imageSelector = "span[class^='covered_image']"
-contentSelector = "span[class^='upload_time']"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[vlive_notice]
-title = "BLACKPINK ─ Notice"
-url = "https://www.vlive.tv/channel/F001E5/board/491"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[class^='post_area']"
-imageSelector = "span[class^='covered_image']"
-contentSelector = "span[class^='upload_time']"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[vlive_blink]
-title = "BLACKPINK ─ To. BLINK"
-url = "https://www.vlive.tv/channel/F001E5/board/724?lang=ko"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[class^='post_area']"
-imageSelector = "span[class^='covered_image']"
-contentSelector = "span[class^='upload_time']"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[vlive_contents]
-title = "BLACKPINK ─ Contents"
-url = "https://www.vlive.tv/channel/F001E5/board/6826?lang=ko"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[class^='post_area']"
-imageSelector = "span[class^='covered_image']"
-contentSelector = "span[class^='upload_time']"
-waitUntil = "networkidle"
-onFail = "stale"
-
 [naverpost_ygfaily_blackpink]
 title = "YG FAMILY ─ BLACKPINK"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=408754&memberNo=37292560"
@@ -50,15 +6,3 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
-
-[hot-issue]
-title = "YG LIFE ─ HOT ISSUE"
-url = "https://yg-life.com/archives/category/hot-issue?lang=ko"
-entrySelector = "ul.hot_issue_list li"
-titleSelector = "h3.post-title"
-linkSelector = "a"
-contentSelector = "div.excerpt"
-dateSelector = "span.magz-meta"
-dateFormat = "yyyy.MM.dd hh:mm a"
-imageSelector = "div.post-thumb img"
-waitUntil = "networkidle"
